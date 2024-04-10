@@ -1,0 +1,862 @@
+match   avg_sim max_sim min_sim sim_list model_games    user_games
+0	0	0	0	0	sleeping dogs,just cause 2,gta v	 gta,world games 
+0	0	0	0	0		solitaire games
+0	0.15318719329937816	0.15318719329937816	0.15318719329937816	0.15318719329937816,0.15318719329937816	gunstar heroes,super meat boy,super meat boy	metal slug
+0	0	0	0	0		 rainbow six,fallout: new vegas, strategy games, nuclear dawn
+0	0	0	0	0	freeciv,civ 2,c-evo,civ 4,civ 3	starcraft
+0	0	0	0	0	mass effect	lost odyssey
+0	0	0	0	0	dawn of war 2,dawn of war 2,dawn of war 2	 coh,age of empires
+0	0.16969491621838786	0.16969491621838786	0.16969491621838786	0.16969491621838786	portal 2	 resident evil 5, pixeljunk shooter, game on, be good,lara croft and the guardian of light, scott pilgrim
+0	0	0	0	0	warframe,diablo	vindictus, know how
+0	0	0	0	0		 front mission,frozen synapse, fft
+0	0	0	0	0	planescape: torment,the witcher	 psychonauts,grim fandango
+0	0.2093845651133544	0.27398277784295594	0.14755615148037587	0.14755615148037587,0.27398277784295594,0.20799966556504293,0.20799966556504293	super meat boy,indie bundle,cave story,minecraft,minecraft	 space quest 1, alone in the dark 1, master of orion, duke nukem 3d, jagged alliance, fallout 1 , descent 1, wing commander 1, die by the sword, rayman, stonekeep, earthworm jim,rollercoaster tycoon, kings quest 1, planescape: torment, police quest 1
+0	0.19797929305425493	0.2102478967775748	0.18571068933093504	0.2102478967775748,0.18571068933093504	cities: skylines,city builder,sim city	dwarf fortress, deep fortress
+0	0	0	0	0		 to leave,this game
+0	0	0	0	0		bioshock
+0	0.20568955853545573	0.2707894832386502	0.1543111627827616	0.18226822728559902,0.1543111627827616,0.2707894832386502,0.21538936083481205	dwarf fortress,minecraft,rimworld,factorio	kerbal space program, mun
+0	0	0	0	0	kingdom hearts,mass effect,the witcher	dragon age: origins
+0	0	0	0	0	minecraft,minecraft,minecraft	flight simulator x, minecraft, spacechem
+0	0	0	0	0	rimworld,factorio	global effect
+0	0	0	0	0	overwatch,tf2	shattered horizon
+0	0	0	0	0		drawn: the painted tower
+0	0	0	0	0	mario kart,mgs	 metal gear solid, mario kart 7,luigis mansion 2
+0	0	0	0	0	homeworld: cataclysm,starcraft,starcraft,total war,total war	 homeworld, sins of a solar empire,star wars: empire at war, supreme commander, ai war: fleet command, know how, serious sam, space combat, total annihilation
+0	0	0	0	0	mario kart wii,mario kart 64,mario kart 64,mario kart ds,mario kart 7,mario kart 8	 tagap,tagap
+0	0	0	0	0	the sims	 pokemon pearl, the world ends with you, zelda: ocarina of time, dragon quest, pick up, animal crossing, final fantasy iii, castlevania: portrait of ruin, hotel dusk: room 215, trauma center, mega man zx advent,ghost trick: phantom detective, out there, super mario 64 ds, tetris ds, lostmagic, chrono trigger, new super mario bros, clash of heroes, castlevania: dawn of sorrow, elite beat agents, advance wars: days of ruin, advance wars: dual strike, final fantasy iv, mario kart 7, super scribblenauts, mega man zero collection, star fox 64, pokemon diamond, custom robo arena, nintendo 3ds, meteos, super mario land, radiant historia, kirby: canvas curse, metroid prime hunters
+0	0.10773091763942921	0.10773091763942921	0.10773091763942921	0.10773091763942921	magicka	fleet command, ai war
+0	0	0	0	0		im sorry
+0	0	0	0	0	assassin's creed,prince of persia,call of duty,tomb raider,far cry	mirrors edge
+0	0	0	0	0	mass effect,dead space,sci-fi	red dead redemption
+0	0	0	0	0	gunstar heroes	tyrian, shmup, tyrian
+0	0	0	0	0	the witcher 2,tomb raider,tomb raider,dark souls,dark souls,dark souls,dark souls	dark messiah of might and magic
+1	1	1	1	0	jak and daxter	jak and daxter
+0	0	0	0	0	super metroid,wii u	 spelunky,roguelike
+0	0	0	0	0	mass effect	psychonauts
+0	0	0	0	0	time to play	 xbox, gow,arcade games
+0	0	0	0	0		 ubisoft,same game
+0	0	0	0	0	pokemon yellow	 pikmin, gamecube, xbox 360,this game
+0	0	0	0	0		 plants vs. zombies, frozen synapse, civ, total war, spacechem,roller coaster tycoon 3
+0	0	0	0	0	out there	flight simulator x, airline company
+0	0	0	0	0	planetside 2,aion,tf2,lol	tribes: ascend, lol
+0	0	0	0	0	metal gear solid,kingdom hearts	 resonance of fate,star ocean: the last hope, ffxiii
+0	0.16850854306162183	0.22539151578348493	0.07147147147147147	0.07147147147147147,0.16875798330931543,0.22539151578348493,0.20841320168221547	team fortress 2,left 4 dead,half-life,minecraft,the sims,gta	sleeping dogs
+0	0.06703265426570056	0.10581969137696724	0.03778117040007852	0.0574971010200559,0.03778117040007852,0.10581969137696724	tribes: ascend,planetside 2,guild wars 2,warframe	 killing floor,zombie shooter
+1	0.6519162086989684	1.0	0.30383241739793676	0.30383241739793676,1.0	the beginner's guide,the stanley parable,gone home	the stanley parable, dear esther
+0	0	0	0	0	ac2,ac2	ace combat 6, ace combat 3, zomg!
+0	0	0	0	0	assassin's creed,ancient rome,xbox 360	skies of arcadia
+1	1	1	1	0	civ	civ
+0	0	0	0	0	metro 2033	commander keen
+0	0.14474701349712568	0.20948857828591297	0.06648615485057878	0.06648615485057878,0.093524742566098,0.20948857828591297,0.20948857828591297	stardew valley,starbound,minecraft,minecraft	 nethack, angband,dungeon crawl, ascii sector, freelancer
+0	0.2800718852149015	0.2800718852149015	0.2800718852149015	0.2800718852149015	guild wars 2	realm of the mad god, magicka, guild wars 2
+0	0	0	0	0	great deal,total war	fallout tactics
+0	0	0	0	0	gears of war,mass effect	 fantasy games,planescape: torment
+0	0	0	0	0	the elder scrolls online,xbox 360	europa universalis iii
+0	0.0	0.0	0.0	0.0	resident evil,dead island	project zomboid
+0	0	0	0	0	plants vs. zombies: garden warfare,farming simulator,stardew valley	 bloons ,desktop tower defense , kingdom rush
+0	0	0	0	0	the witcher 2,mass effect,tomb raider	 the witcher, out there,kingdoms of amalur: reckoning, alpha protocol
+0	0	0	0	0	the walking dead,alien: isolation,the evil within,resident evil 2,the last of us,dead space 2,dead space 3,the witcher	 gamecube,eternal darkness: sanitys requiem
+0	0.17580510849552025	0.17580510849552025	0.17580510849552025	0.17580510849552025	card game,starcraft,diablo 3	frozen synapse
+1	1	1	1	0	banjo-kazooie,banjo-kazooie,banjo-tooie,banjo-tooie	banjo-kazooie
+0	0	0	0	0	mass effect,the witcher,the witcher,the witcher,kotor,kotor,kotor	alpha protocol, the witcher, jade empire, kotor 2
+0	0	0	0	0	mass effect	adventure games
+0	0	0	0	0	the witcher 2,the witcher 2,the long dark	 psx, paper mario, final fantasy tactics,temple of elemental evil
+0	0	0	0	0	mass effect,mass effect,dark souls,bioshock	plants vs. zombies, xbox, darksiders, an awesome game
+0	0	0	0	0	cities: skylines,city builder	 sim city 4,theme hospital, tropico 4
+0	0	0	0	0	uncharted collection	 dark souls, littlebigplanet, playstation, demons souls, ico,shadow of the colossus, killzone
+0	0	0	0	0	mw2	batman: arkham asylum, just cause 2, far cry 2, tribes: ascend
+0	0	0	0	0	the witcher	diablo 2, diablo 3, game on
+0	0	0	0	0	mass effect,mass effect	 alan wake,final fantasy 8, alpha protocol, mass effect, ff10
+0	0.1553335112759265	0.1553335112759265	0.1553335112759265	0.1553335112759265	lego indiana jones,tomb raider,sorry!,sorry!	plants vs. zombies, the orange box
+0	0.0721992972553265	0.0721992972553265	0.0721992972553265	0.0721992972553265,0.0721992972553265	the witcher 2,max payne 3,max payne 3	the orange box, pick up, max payne 3, this game, the witcher 2
+0	0.1022901531260848	0.1022901531260848	0.1022901531260848	0.1022901531260848	command and conquer,age of empires,red alert,starcraft	evil genius, homeworld
+0	0	0	0	0	mass effect	 in between, bg2,planescape: torment, baldurs gate
+0	0.13825360641434925	0.13825360641434925	0.13825360641434925	0.13825360641434925	the elder scrolls online,gta iv	avernum, avernum
+0	0	0	0	0	the witcher 2,mass effect,mass effect,mass effect,mass effect	 dreamfall, adventure games, indigo prophecy,the longest journey
+0	0	0	0	0	mass effect,bioshock	minecraft
+1	1	1	1	0	kingdoms of amalur: reckoning,dragon age: origins,dragon's dogma,the witcher 2,dark souls	 dark souls, dragons dogma,dragon age: origins, the witcher 2
+0	0	0	0	0	golden sun	dragons dogma
+0	0.20036155002268694	0.20036155002268694	0.20036155002268694	0.20036155002268694,0.20036155002268694	starbound,starbound	dungeon defenders
+0	0	0	0	0	planetside 2	gotham city impostors
+0	0	0	0	0	game on,game on	bloons
+0	0.21528764034447012	0.3657125136659123	0.10278936405631411	0.1371307479766883,0.2555179356789658,0.3657125136659123,0.10278936405631411	the binding of isaac,don't starve,starbound,roguelike	 cortex command,project zomboid, ai war
+0	0	0	0	0	super mario sunshine,super mario bros. 3,super mario 3d land,super mario world,black and white,kingdom hearts,super mario 64,star fox 64	 star fox,diddy kong racing
+0	0	0	0	0	age of wonders 3	 total war,total war
+0	0.15459394200619203	0.15459394200619203	0.15459394200619203	0.15459394200619203	guild wars 2	dota 2
+0	0	0	0	0	diablo 3,diablo 3,diablo 3,diablo 3	 lego indiana jones, street fighter 3, swat 4, gta 4, metal drift,new super mario bros, world of goo, wii sports, worms armageddon, portal 2, splinter cell 3
+0	0	0	0	0	ufo: enemy unknown	xenonauts, xenonauts
+0	0.24893211274251828	0.24893211274251828	0.24893211274251828	0.24893211274251828	final fantasy vii	cthulhu saves the world
+0	0	0	0	0	mobile forces,mobile forces,mobile forces,mobile forces,speed busters,speed busters,speed busters,original war,original war,original war,nox,nox,nox	rise of nations
+0	0	0	0	0	age of wonders 3,war games,war games,total war,total war	 crusader kings 2, victoria 2, eu3,europa universalis 3
+1	0.26472832418632636	1.0	0.12348671947518824	0.20308610379499314,0.24874021674624644,0.20315168241920756,0.18843929916370053,0.2807488381448005,0.12348671947518824,1.0,0.13094482457208162,0.13094482457208162,0.1377407329749633	planescape: torment,rise of nations,commander keen,virtual pool 3,black & white,baldur's gate,red faction,serious sam,for glory,half-life,half-life,re-volt	for glory
+0	0	0	0	0	mass effect,sci-fi	sid meiers pirates, mass effect
+0	0	0	0	0	star wars: the old republic,sorry!,sorry!,tera	saints row 3
+0	0.20638428411138135	0.2367149758454106	0.08506151717526443	0.2367149758454106,0.2367149758454106,0.2367149758454106,0.2367149758454106,0.08506151717526443	metal gear solid,metal gear solid,metal gear solid,metal gear solid,monster hunter,locoroco,patapon	roguelike, z.h.p., vs., know how
+1	1	1	1	0	transport tycoon deluxe,roller coaster tycoon,theme hospital,simcity 4,openttd	roller coaster tycoon
+0	0	0	0	0		to leave
+0	0.2198155663361255	0.29226537201941033	0.13582626681282053	0.13582626681282053,0.23135506017614568,0.29226537201941033	dungeon crawl,roguelike,nethack	 think twice,lone survivor
+0	0	0	0	0	mass effect	 xbox, star wars,ms. splosion man, portal 2
+0	0	0	0	0	super mario bros. 3,super mario bros. 3,super mario bros. 3,super mario bros. 3,super mario bros. 3,super mario world,super mario rpg,super mario rpg,super mario rpg,super mario rpg,super metroid,super metroid,cave story	trine 2, think!
+0	0	0	0	0	call of duty,halo: reach,halo 3,halo 3	lock-on
+0	0.18113799970100236	0.21972585248045504	0.1425501469215497	0.1425501469215497,0.21972585248045504	divinity: original sin,path of exile,torchlight 2,diablo 3	realm of the mad god, minecraft
+1	0.9999999999999999	0.9999999999999999	0.9999999999999999	0.9999999999999999	fallout 3	fallout 3, fallout 3
+0	0.1299920292255973	0.1299920292255973	0.1299920292255973	0.1299920292255973	lego harry potter,lego batman 2,portal 2	pick up
+0	0	0	0	0	guild wars 2	 ddo, aion,lotro
+0	0	0	0	0		xbox 360
+0	0	0	0	0	city builder,city builder,anno 2070,tropico	railroad tycoon 3
+0	0	0	0	0	mechwarrior 2: mercenaries,mechwarrior 2: mercenaries,mechwarrior 2: mercenaries,mechwarrior 2: mercenaries	earthsiege 2, starsiege, mechwarrior
+0	0	0	0	0	age of empires 2,starcraft,starcraft,starcraft	 home base,age of empires 3
+0	0	0	0	0		monster hunter
+0	0	0	0	0	the last of us,tomb raider	mass effect
+0	0.21904189388413933	0.21904189388413933	0.21904189388413933	0.21904189388413933	mass effect,the witcher	alan wake
+0	0.17510665188671096	0.17510665188671096	0.17510665188671096	0.17510665188671096	planetside 2	minecraft
+0	0	0	0	0		lego star wars
+0	0.1807799058122779	0.21304690108561433	0.14851291053894147	0.14851291053894147,0.21304690108561433	killing floor 2,left 4 dead 2,dead state	 nation red,zombie shooter
+0	0	0	0	0	gta v	just cause 2
+0	0	0	0	0	the witcher,the witcher,the witcher	dragon quest viii: journey of the cursed king
+0	0.17364687181457283	0.24498326410711502	0.13146523244451777	0.13146523244451777,0.24498326410711502,0.14449211889208566	tribes: ascend,planetside 2,warframe,dota 2	magicka
+0	0	0	0	0	hard time,hard time,hard time,hard time	rip off
+0	0.12253251683372661	0.12253251683372661	0.12253251683372661	0.12253251683372661	borderlands 2,mass effect	portal 2, tf2
+0	0	0	0	0	team fortress 2,minecraft	mario kart, trine 2
+0	0	0	0	0	gamecube,gamecube,wii u,wii u,wii u,wii u,wii u,wii u,wii u	resident evil 0, gamecube, silent hill, block party, viewtiful joe
+0	0.20213569433229875	0.20213569433229875	0.20213569433229875	0.20213569433229875	guild wars 2	 dungeon siege ii, icewind dale,neverwinter nights, baldurs gate, titan quest
+0	0	0	0	0	the witcher,i'm sorry,i'm sorry,i'm sorry	chrono cross, ff8
+0	0	0	0	0	stellaris	dawn of discovery, anno 1404, anno 2070, same game
+0	0	0	0	0		mass effect 3, mass effect 2
+0	0	0	0	0	mass effect	 xbox, gladius,shining force
+0	0.0829674050450736	0.09522773938307649	0.0707070707070707	0.09522773938307649,0.0707070707070707	superbrothers: sword & sworcery ep,amnesia: the dark descent,psychonauts ,indie bundle,cave story+	deus ex
+0	0	0	0	0	rainbow six: siege,planetside 2	bf2
+0	0.2718417359372817	0.2718417359372817	0.2718417359372817	0.2718417359372817	sid meier's civilization vi,sid meier's alpha centauri,battle brothers	s.t.a.l.k.e.r., timeline, s.t.a.l.k.e.r.
+0	0	0	0	0	planetside 2	guess it
+1	0.5010093124425037	1.0	0.11509266753570858	0.2748612271411011,0.11509266753570858,0.11509266753570858,1.0,1.0	devil may cry 4,ninja gaiden 2,ninja gaiden 2,over the top,over the top,bayonetta,bayonetta	bayonetta
+0	0	0	0	0	out there,out there,total war	 aoe, sins of a solar empire, total war, rise of nations,galactic civilizations 2, strategy games
+0	0	0	0	0	candy crush saga	 fishdom, sudoku, pick up,bookworm adventures, picross, word games
+0	0	0	0	0	just cause 2,iron man	 just cause 2,batman: arkham city
+0	0	0	0	0	guild wars,warcraft 3,eve online,starcraft,diablo 2,dota 2,lol	ive
+0	0	0	0	0		dragon age origins, dragon age origins, black and white
+0	0	0	0	0	dark souls prepare to die edition,demon's souls,demon's souls,demon's souls,demon's souls	demons souls
+0	0.158702478568555	0.158702478568555	0.158702478568555	0.158702478568555	unreal tournament,planetside 2	 tf2, this game,team fortress 2, game on
+0	0	0	0	0		 out there,doodle god, magicka
+0	0	0	0	0	minecraft: story mode	minecraft
+0	0	0	0	0	final fantasy tactics,advance wars,fire emblem	battle for wesnoth
+0	0	0	0	0	the witcher 2,mass effect,mass effect,dark souls	kotor
+0	0	0	0	0		 diablo 2, starcraft,dungeon siege ii
+0	0	0	0	0	mass effect,sci-fi	beyond good and evil
+0	0	0	0	0		gears of war, ut2004
+0	0	0	0	0	fallout: new vegas,fallout: new vegas,fallout 3,fallout 3,fallout 3,fallout 3,fallout 3	 fallout 3,point of view
+0	0.10001789540907167	0.10001789540907167	0.10001789540907167	0.10001789540907167,0.10001789540907167	the witcher 2,the witcher 2,deus ex,deus ex	fallout 3
+0	0	0	0	0	age of empires 3,homeworld,homeworld,crysis	firefox, firefox
+0	0.17783736625642724	0.17783736625642724	0.17783736625642724	0.17783736625642724	borderlands 2	fallout 3, diablo
+1	0.5211614114189899	1	0.14562008665352835	1,1,0.31456688378789227,0.14562008665352835,0.14562008665352835	just cause 2,just cause 2,saints row,far cry 3,far cry 3	just cause 2
+0	0	0	0	0	sam & max	 grim fandango, day of the tentacle, maniac mansion,the secret of monkey island, adventure games
+0	0	0	0	0		minecraft
+0	0.2926879278134846	0.3132284471514216	0.2721474084755477	0.2721474084755477,0.3132284471514216	xenoblade chronicles,xenoblade chronicles,xenoblade chronicles,tales of symphonia,tales of vesperia,xenosaga,xenosaga	dragon quest, square enix
+0	0	0	0	0		metro 2033
+0	0	0	0	0	tomb raider	 colossus collection, playstation, dig it, minecraft, darksiders, 3d dot game heroes, ico, shadow of the colossus, rayman origins, modnation racers, alice madness returns, mario kart, loz, this game, alice in wonderland,enslaved odyssey to the west
+0	0	0	0	0	ddr3	 ddr3,windows 7 home premium
+1	1	1	1	0	mass effect,deus ex,sci-fi,sci-fi	mass effect, half-life, bioshock 1
+0	0	0	0	0	diablo	final fantasy: crystal chronicles, champions of norrath, x-men legends, gamecube
+0	0.16215382968894443	0.3333333333333333	0.05555555555555555	0.09757260017794445,0.3333333333333333,0.05555555555555555	red dead redemption,assassin's creed,just cause,saints row	 gta, eiffel tower,black and white
+0	0	0	0	0	assassin's creed,mass effect,the sims 3,the sims 2,minecraft,sci-fi	 dark souls, castlevania: lords of shadow, deadly premonition, just cause 2, mirrors edge, beautiful katamari,enslaved: odyssey to the west, deus ex: human revolution, metro 2033, alpha protocol, fallout: new vegas, fallout 3, eternal sonata, this game, shadows of the damned
+1	0.9999999999999997	0.9999999999999997	0.9999999999999997	0.9999999999999997	guild wars 2	guild wars 2, this game
+0	0	0	0	0		 cold war, simcity, tropico 3,city builder
+0	0	0	0	0	the witcher 2,the witcher 2,the witcher 2,the witcher 2,the witcher 2,the witcher 2,the witcher 2	team fortress 2
+1	0.3248658007556309	1	0.09921702365318152	0.14735222604624026,0.19509446783697534,1,0.09921702365318152,0.18266528624175718	the stanley parable,the talos principle,antichamber,portal 2,superhot	 antichamber,antichamber
+0	0	0	0	0	endless space,starcraft,civ,civ,civ,civ	crusader kings 2
+0	0	0	0	0	farming simulator,stardew valley,starbound,minecraft,minecraft	 diablo 2,torchlight 2
+0	0	0	0	0		3d models
+0	0	0	0	0	mass effect trilogy,ratchet and clank,god of war	 jak and daxter, ratchet and clank,sly cooper collection, action games
+0	0	0	0	0	mass effect 2,mass effect 2,mass effect 2	final fantasy 9
+0	0	0	0	0	mass effect	 gemini rue, dear esther, botanicula,adventure games, samorost 2, myst, hitman, machinarium, deus ex
+0	0.13261834243656903	0.13261834243656903	0.13261834243656903	0.13261834243656903	evo	to heart
+0	0	0	0	0	the witcher 2,the witcher 2,the witcher 2,the witcher 2,the witcher 2,gta v	 gta iv,batman: arkham city
+0	0	0	0	0	minecraft	little big planet
+0	0	0	0	0	mass effect	 earth defense force, asc, crackdown 2, deadpool, payday: the heist, left 4 dead, out there,call of juarez: the cartel, xbox, rumble roses xx, survival mode, aliens: colonial marines
+0	0.2330395033850412	0.24597701149425286	0.20716448716661784	0.20716448716661784,0.24597701149425286,0.24597701149425286	assassin's creed,the witcher,the witcher	 new york city, timeline, las vegas, prototype 2,fallout: new vegas, gta iv, l.a. noire, assassins creed, total war, los
+0	0.21914622496750447	0.28586080943867853	0.15243164049633043	0.15243164049633043,0.15243164049633043,0.28586080943867853,0.28586080943867853	borderlands 2,borderlands 2,portal 2,portal 2	left 4 dead
+0	0	0	0	0		 silent hill, just cause, fatal frame, .flow, lone survivor,s.t.a.l.k.e.r., rule of rose, crysis, cry of fear, cryostasis
+0	0.23555159415019045	0.23555159415019045	0.23555159415019045	0.23555159415019045	frozen synapse	 roguelike,dungeons of dredmor, minecraft, pick up
+0	0.30406755198677915	0.32036940021532895	0.29723642604434475	0.29723642604434475,0.32036940021532895,0.2993321908437215,0.2993321908437215	prince of persia,indiana jones,king's quest,tomb raider,tomb raider	 prince of persia,tomb raider: legend, depth hunter, grab it, another world
+0	0	0	0	0	mass effect	 mass effect, dragon age: origins, the witcher 2,planescape: torment
+0	0.1974236494503691	0.25950511442738766	0.13534218447335056	0.25950511442738766,0.13534218447335056	the binding of isaac,roguelike	 dark souls, demons souls, fallout 3, final fantasy xiii, fallout: new vegas, disgaea 3,valkyria chronicles
+0	0	0	0	0		 total war, medieval 2,strategy games
+0	0.26916804017598356	0.26916804017598356	0.26916804017598356	0.26916804017598356	tales of symphonia	shin megami tensei
+0	0	0	0	0	final fantasy tactics: the war of the lions,jeanne d'arc	 jeanne darc,strategy games
+1	1	1	1	0	shadow of the colossus,ico	 ico,shadow of the colossus
+0	0.14992211777151737	0.14992211777151737	0.14992211777151737	0.14992211777151737	endless space 2,endless space 2,stellaris	 endless space, sins of a solar empire,sins of a solar empire, galciv
+0	0.20213569433229875	0.20213569433229875	0.20213569433229875	0.20213569433229875,0.20213569433229875,0.20213569433229875,0.20213569433229875	guild wars 2,guild wars 2,guild wars 2,guild wars 2,tera	neverwinter nights
+0	0.32192935366068337	0.38500307360419667	0.25885563371717013	0.38500307360419667,0.38500307360419667,0.25885563371717013,0.25885563371717013	dungeon crawl,dungeon crawl,roguelike,roguelike	 nwn,my life
+1	1	1	1	0	super mario world 2: yoshi's island,super mario world 2: yoshi's island,super mario world 2: yoshi's island,super mario world 2: yoshi's island,super mario world 2: yoshi's island,super mario world 2: yoshi's island,super mario world 2: yoshi's island,super mario all-stars,super mario kart,super mario rpg,super metroid	 dkc,super metroid, castlevania, kirby
+0	0	0	0	0	star wars: knights of the old republic,mass effect trilogy,mass effect trilogy	star ocean, sci-fi
+0	0	0	0	0	super mario galaxy,super mario 64,super meat boy,mirror's edge,tomb raider	mirrors edge
+0	0	0	0	0	galactic civilizations ii,endless space,endless space,endless space,endless space	galciv
+0	0.11459952964085299	0.12748336463875076	0.10171569464295523	0.12748336463875076,0.10171569464295523	europa universalis iv,stellaris	 total war,ancient rome
+0	0.17676705988854988	0.25513925020774125	0.14105509142275072	0.14105509142275072,0.15797787174761396,0.14120196790975112,0.18744558258243962,0.18969603999589113,0.16485361535366141,0.25513925020774125	brothers: a tale of two sons,dmc: devil may cry,the wolf among us,the walking dead,alien: isolation,the last of us,little inferno,child of light,rayman origins,tomb raider	portal 2, tf2
+0	0	0	0	0	league of legends,dota 2	 dragon age 2, betrayal in antara, neverwinter nights 2, jade empire,dark messiah of might and magic, drakensang: the river of time, the dark eye, divine divinity, dragon age origins, ascension to the throne, space rangers 2, game of thrones, dragons dogma, dead island, final fantasy 8, planescape: torment, dark souls, the last remnant, wizardry 8, this game, beyond divinity, anachronox, deus ex, kotor, nethergate, arx fatalis, kult, septerra core, fable: the lost chapters, alpha protocol, dragon knight, geneforge, avernum
+0	0	0	0	0	the elder scrolls online,the witcher	 dragon age 2, betrayal in antara, jade empire, drakensang: the river of time, hard to be a god, betrayal at krondor, divine divinity, the dark eye, dragon age origins, space rangers 2, ascension to the throne, shadowrun returns, game of thrones, crusader kings ii, dragons dogma, final fantasy 8, legend of grimrock, planescape: torment, dark souls, the last remnant, dark messiah of might and magic, wizardry 8, this game, costume quest, beyond divinity, anachronox, deus ex, kotor, nethergate, arx fatalis, kult, system shock 2, septerra core,lord of the rings war in the north, fable: the lost chapters, alpha protocol, dragon knight, geneforge, avernum
+0	0	0	0	0		 play the world,the world ends with you
+0	0	0	0	0	starcraft	warcraft 3
+0	0	0	0	0	planetside 2,war thunder,warframe	 halo reach, jetpack,global agenda
+0	0	0	0	0	the binding of isaac: rebirth ,the stanley parable,the talos principle,super meat boy ,rogue legacy ,don't starve ,spelunky ,minecraft,terraria 	 dragon age 2, betrayal in antara, neverwinter nights 2, jade empire,dark messiah of might and magic, drakensang: the river of time, the dark eye, divine divinity, dragon age origins, ascension to the throne, space rangers 2, game of thrones, dragons dogma, dead island, final fantasy 8, planescape: torment, dark souls, the last remnant, wizardry 8, this game, beyond divinity, anachronox, deus ex, kotor, nethergate, arx fatalis, kult, septerra core, fable: the lost chapters, alpha protocol, dragon knight, geneforge, avernum
+0	0	0	0	0	mario kart 7,gt5,gt5	this game
+0	0	0	0	0		trine 2
+0	0	0	0	0		 borderlands 2,borderlands 2
+1	1.0	1	1	1	planetside 2	planetside 2
+0	0	0	0	0		super mario 64
+0	0	0	0	0		game boy, nes
+0	0.2164000101824524	0.2164000101824524	0.2164000101824524	0.2164000101824524	mind games	 fire emblem,dungeons of dredmor
+0	0	0	0	0	europa universalis iv,cities: skylines,city builder	dawn of discovery
+0	0	0	0	0	dragon age: origins - awakening,dragon age: inquisition,dragon age: inquisition	dungeons of dredmor
+0	0.06122540496752434	0.06122540496752434	0.06122540496752434	0.06122540496752434,0.06122540496752434,0.06122540496752434,0.06122540496752434	super mario bros. 3,super mario bros. 2,road trip,road trip,road trip,road trip,metroid	spelunky
+1	1	1	1	0	injustice: gods among us,street fighter 4	street fighter 4
+0	0	0	0	0	street fighter 4	 elite beat agents, gta: chinatown,castlevania: dawn of sorrow, pokemon conquest, diddy kong racing
+0	0	0	0	0	starcraft,starcraft	lara croft and the guardian of light
+1	0.9999999999999997	0.9999999999999997	0.9999999999999997	0.9999999999999997	guild wars 2	guild wars 2
+1	1.0	1.0	1.0	1.0,1.0	alpha protocol,mass effect,deus ex,deus ex	deus ex
+0	0	0	0	0	civilization v	frozen synapse
+0	0	0	0	0	ace attorney investigations	great deal
+0	0	0	0	0	the god of war trilogy,ratchet and clank,jak and daxter,metal gear	metal gear solid, mgs4
+0	0	0	0	0	spider-man 2,spider-man 2,superhero,superhero	 spiderman 2,ultimate spiderman
+0	0	0	0	0		wild ride
+0	0.08574552536846398	0.08574552536846398	0.08574552536846398	0.08574552536846398,0.08574552536846398	total war,total war	dungeons of dredmor
+0	0	0	0	0	yakuza,yakuza,yakuza,yakuza	the sims
+0	0	0	0	0	final fantasy tactics,fft	 tactics ogre, fft,strategy games, kartia
+1	0.9999999999999997	0.9999999999999997	0.9999999999999997	0.9999999999999997	guild wars 2	guild wars 2
+0	0.19940540842522284	0.2162995496800075	0.17686892276841024	0.20504775282725082,0.2162995496800075,0.17686892276841024	the long dark,the witcher,subnautica	minecraft
+0	0	0	0	0	farming simulator,stardew valley	 nes, toki tori, minecraft, irisu,knytt stories
+1	0.9999999999999997	0.9999999999999997	0.9999999999999997	0.9999999999999997	guild wars 2	guild wars 2
+0	0	0	0	0	city builder,city builder,i'm sorry,stone age,sim city,sim city	rise of nations, civ
+0	0	0	0	0	city builder,city builder,anno 2070,anno 2070,cities xl,tropico	simcity
+0	0	0	0	0	the legend of zelda: phantom hourglass ,the legend of zelda: twilight princess,the legend of zelda: link's awakening,the legend of zelda: ocarina of time,the legend of zelda: skyward sword ,the legend of zelda: majora's mask ,the legend of zelda: spirit tracks 	ratchet and clank
+0	0	0	0	0	magic the gathering,card games	civilization 5
+0	0	0	0	0		 ive,jet pack
+0	0	0	0	0	deus ex	metro 2033
+0	0.07246612529016087	0.0789669400045936	0.06596531057572814	0.06596531057572814,0.0789669400045936	borderlands 2,starcraft,total war	 guild wars 2, kotor,team fortress 2, left 4 dead, ddo, out there, lotro, half-life, fallout 3, mass effect, deus ex
+0	0.27942955131575814	0.27942955131575814	0.27942955131575814	0.27942955131575814	tower wars	revenge of the titans
+0	0	0	0	0	mass effect,starcraft	the binding of isaac
+0	0.035729795649388094	0.042720237337312006	0.028739353961464178	0.028739353961464178,0.042720237337312006	war games,total war	dawn of war
+0	0	0	0	0		 the walking dead, sleeping dogs, binary domain, fallout 3, spec ops: the line,batman: arkham city, metro 2033
+0	0	0	0	0	battlefield 1942,red orchestra,call of duty	 hl2,hl2
+0	0.14688466940934808	0.14688466940934808	0.14688466940934808	0.14688466940934808,0.14688466940934808	europa universalis,crusader kings,crusader kings,civ,civ	sins of a solar empire, sword of the stars
+0	0	0	0	0	battlefield 1,titanfall 2,wolfenstein,far cry 4	mass effect
+0	0.34176650277130016	0.34176650277130016	0.34176650277130016	0.34176650277130016	guild wars 2	eve online
+0	0.24703313930759618	0.24703313930759618	0.24703313930759618	0.24703313930759618	the elder scrolls online,nord	 the witcher, dark souls, kotor, baldurs gate, bg2, star wars, two worlds, gothic 2, this game,planescape: torment, deus ex
+0	0	0	0	0	animal crossing,stardew valley	back to nature, harvest moon
+0	0	0	0	0	the witcher 2,the witcher 2,far cry	 gta,red dead redemption
+0	0	0	0	0	stardew valley,the sims,the sims,the sims	katamari
+0	0	0	0	0	the last of us,demon's souls,dark souls 2,killzone 3,killzone 2	total war
+0	0	0	0	0	guild wars 2	 guild wars 2,dragons online
+0	0	0	0	0	super mario bros.,super mario bros.,tiny wings,mario kart,mario kart,pick up,osmos	 super mario rpg, crash bandicoot,the legend of zelda: a link to the past, mario kart, trip world, this game, super mario world, final fantasy
+0	0.16426720262572747	0.1781567040275718	0.15037770122388316	0.15037770122388316,0.1781567040275718	the sims 4,the sims 3	give up
+0	0	0	0	0	xbox one,xbox one	battlefield 3, only if, xbox 360
+1	1	1	1	0	the beginner's guide,the stanley parable,the stanley parable,dear esther,gone home	 heavy rain,dear esther
+0	0	0	0	0	minecraft	 drawn to life,super scribblenauts
+0	0.08593807747396331	0.08593807747396331	0.08593807747396331	0.08593807747396331	total war,sorry!,sorry!	this game
+0	0	0	0	0		 dark souls, heavy rain, future games, metal gear solid, demons souls, ico, call of duty, dead space, god of war, gears of war, beyond two souls, assassins creed,shadow of the colossus, ratchet and clank, jak and daxter, the last of us
+0	0	0	0	0	eve online	know how
+0	0	0	0	0		swat 4
+0	0.16437281553704444	0.16437281553704444	0.16437281553704444	0.16437281553704444,0.16437281553704444,0.16437281553704444	fallout 3: mothership zeta,fallout 3: point lookout,fallout 3: broken steel,fallout: new vegas,fallout: new vegas,fallout: new vegas	dragon quest
+0	0.17811805018676619	0.17811805018676619	0.17811805018676619	0.17811805018676619	total war	 pick up, civ, total war,strategy games
+0	0.058265490812285194	0.058265490812285194	0.058265490812285194	0.058265490812285194,0.058265490812285194	dwarf fortress,dwarf fortress	spelunky
+0	0	0	0	0	mass effect trilogy,bioshock infinite,the witcher	dragon age origins ultimate edition, battlefield 3, guild wars, atom zombie smasher, mass effect
+0	0	0	0	0	eve online	sid meiers pirates!
+0	0	0	0	0	guild wars 2	dark souls
+0	0	0	0	0	the witcher 2	team fortress 2, left 4 dead
+0	0	0	0	0	the witcher 2,the witcher 2,the witcher 2	alpha protocol
+0	0.2579537385727535	0.4625868682087774	0.10390857832617391	0.10390857832617391,0.4625868682087774,0.20736576918330915	castle crashers,super meat boy,to the moon,cave story	memory game, vvvvvv, meat boy, cave story, roguelike, minecraft
+0	0	0	0	0	neverwinter nights,baldur's gate,baldur's gate	baldurs gate, give up
+0	0	0	0	0	endless space,war games,total war,civ 3	civ
+0	0	0	0	0	mass effect 2,metal gear	indiana jones
+0	0	0	0	0	card game	nba street
+0	0	0	0	0		mark of the ninja
+0	0	0	0	0	arma 3	swat 4
+0	0	0	0	0	the witcher 2,the witcher 2,dark souls,dark souls,dark souls	 dark souls,final fantasy tactics
+0	0	0	0	0		 halo 4, xbox,cut it
+0	0	0	0	0		 fight club, l4d, glory days, mw2, far cry 2, crysis, hl2,call of duty 2
+0	0.057556288885738306	0.057556288885738306	0.057556288885738306	0.057556288885738306	the orange box,mass effect,great deal,bioshock	plants vs. zombies, dead space
+0	0.17539642759750398	0.19607843137254902	0.15471442382245895	0.19607843137254902,0.15471442382245895	roller coaster tycoon 2,transport tycoon deluxe,x-com: ufo defense,openarena,openttd,quake 3	dwarf fortress, dwarf fortress, minecraft
+1	1	1	1	0	deus ex: human revolution,mass effect,sci-fi	 super spy, bioshock,deus ex: human revolution, thief 2, action games
+0	0.293823478111733	0.293823478111733	0.293823478111733	0.293823478111733	crusader kings ii,endless space,endless space	 crusader kings 2, dawn of war 2, galciv,company of heroes, rise of nations, total war, war games
+0	0	0	0	0		fallout 3, deus ex
+0	0	0	0	0	assassin's creed	shadowrun
+0	0	0	0	0	dark souls	dungeons of dredmor, dungeon crawl
+0	0	0	0	0	guild wars 2	assassins creed, action games
+0	0.08801470307714714	0.08801470307714714	0.08801470307714714	0.08801470307714714	portal 2	 xbox,star trek online, minecraft, portal 2
+0	0	0	0	0	il-2 sturmovik	vendetta online
+0	0.0	0.0	0.0	0.0	mass effect,sci-fi	fallout new vegas, fallout 3, vs.
+0	0	0	0	0		 this game,great deal
+0	0	0	0	0	dwarf fortress,the guild 2,the sims 3,rimworld	 dwarf fortress, friendly fire, evil genius,dungeon keeper 2
+0	0	0	0	0	god of war collection,ratchet and clank	heavy rain , playstation
+0	0	0	0	0		 vvvvvv,super meat boy, nightsky
+0	0.10713710055374047	0.10713710055374047	0.10713710055374047	0.10713710055374047	total war	ftl: faster than light, game on
+0	0	0	0	0		 victoria 2,capitalism 2
+1	1	1	1	0	sonic 3 and knuckles,sonic 3 and knuckles,sonic 3 and knuckles,sonic 3 and knuckles,sonic 3 and knuckles,over the top,top speed	 sonic generations ,sonic 3 and knuckles, sonic 1
+0	0	0	0	0	mass effect,deus ex	dark souls
+0	0	0	0	0	the stanley parable,the witcher 2,the witcher 2	 civilization v,kings bounty: warriors of the north, age of wonders: shadow magic, kings bounty: the legend, heroes of might and magic iii, mass effect, strategy games
+0	0	0	0	0	gears of war	 diablo 3,torchlight 2
+0	0	0	0	0	ff10,ff7,ff7	heroes of might and magic 5, guild wars 2
+0	0.29533559617047683	0.32805113060443186	0.2626200617365218	0.32805113060443186,0.2626200617365218	tomb raider,far cry 3,bioshock	s.t.a.l.k.e.r.
+0	0.181149742266378	0.25350357181684907	0.10233902760560891	0.18760662737667602,0.18760662737667602,0.10233902760560891,0.10233902760560891,0.25350357181684907,0.25350357181684907	dungeon crawl,dungeon crawl,anvil of dawn,anvil of dawn,daggerfall,daggerfall,roguelike,roguelike	diablo
+0	0	0	0	0	mass effect	the witcher
+0	0	0	0	0	league of legends,team fortress 2,planetside 2,warframe,dota 2	warcraft 3
+0	0	0	0	0	the witcher 2,tomb raider	x: rebirth, sci-fi
+0	0.15836940836940838	0.23737373737373738	0.07936507936507936	0.07936507936507936,0.23737373737373738	deus ex,hitman	fallout: new vegas, fallout 3
+0	0.11157397979250606	0.11157397979250606	0.11157397979250606	0.11157397979250606	starcraft,bots	football manager, warcraft 3, pick up, starcraft
+0	0	0	0	0	dark souls	dwarf fortress
+0	0	0	0	0	game on	nwn
+0	0	0	0	0		 diamond trust of london,cognition: an erica reed thriller
+0	0	0	0	0		counter strike, know how
+0	0.21977991284341794	0.2453802812141425	0.2069797286580557	0.2453802812141425,0.2069797286580557,0.2069797286580557	the binding of isaac,roguelike,roguelike	dungeon crawl
+0	0	0	0	0	the witcher 2	kotor
+0	0.23437805137406534	0.23437805137406534	0.23437805137406534	0.23437805137406534	path of exile	neverwinter nights
+1	1	1	1	0	mass effect	 mega man,mass effect
+0	0.11271084232713398	0.13432038436797863	0.09110130028628932	0.09110130028628932,0.13432038436797863	dark souls,overwatch,dota 2,lol	 the witcher,just cause 2, saints row
+1	0.535707206278589	1.0	0.07141441255717816	0.07141441255717816,1.0	mass effect,mass effect,the witcher,deus ex	 kotor,deus ex
+0	0	0	0	0	guild wars 2	 kart race, minecraft,mario kart double dash
+0	0.16329910395056255	0.18012815728182408	0.14627388207102876	0.18012815728182408,0.14627388207102876,0.16349527249883475	stardew valley,rocket league,don't starve,minecraft	 minecraft, torchlight 2,terraforming
+0	0	0	0	0	forza motorsport,forza horizon,gta	driver san francisco
+1	1	1	1	0	assassin's creed,dark souls	dark souls
+0	0	0	0	0	most wanted,most wanted	burnout paradise
+0	0	0	0	0		 counter-strike, borderlands 2,team fortress 2, crysis 3
+0	0	0	0	0	stardew valley,harvest moon	europa 1400: the guild
+1	0.5798087173454161	1.0	0.1596174346908322	1.0,0.1596174346908322	fallen enchantress,dungeon village,majesty 2	dungeon village
+0	0	0	0	0	guild wars 2	 paper rpg,all games
+0	0.3353894938589248	0.4773523237998239	0.19342666391802574	0.19342666391802574,0.4773523237998239	planescape: torment,to the moon,moon.	 out there,mass effect 2, lost odyssey
+0	0	0	0	0	civilization v	 crusader kings 2,in medieval times
+0	0	0	0	0	demon's souls,dark souls 2,ninja gaiden,castlevania,the ninja,same game	 super meat boy, baldurs gate, giana sisters, dustforce, they bleed pixels,heroes of might and magic 3
+0	0	0	0	0	super mario 3d world,pokemon x,pokemon x,pokemon x	star fox 64 3d, mario kart 7
+0	0	0	0	0	saints row,gta	tropico
+0	0	0	0	0	age of empires 2,starcraft,civ	 victoria 2, crusader kings ii, hearts of iron iii,europa universalis 3
+0	0.11675946177161255	0.11675946177161255	0.11675946177161255	0.11675946177161255	tomb raider	prince of persia, darksiders
+0	0	0	0	0	diablo 3	diablo
+0	0	0	0	0		xbox 360
+0	0	0	0	0	mass effect	god of war, god of war
+0	0.158974358974359	0.158974358974359	0.158974358974359	0.158974358974359	dwarf fortress,civilization 5,starcraft	final fantasy, saints row, gta, diablo 2
+0	0.0865369558189477	0.0865369558189477	0.0865369558189477	0.0865369558189477	dwarf fortress	minecraft
+0	0.08683348239055562	0.15523728927693	0.05263157894736842	0.05263157894736842,0.05263157894736842,0.15523728927693	the orange box,the orange box,half-life,bioshock	just cause 2
+0	0	0	0	0	farming simulator,stardew valley,harvest moon,moon.	dark cloud 2, persona 3
+0	0.23623372543051327	0.2394190466338463	0.2341101779616246	0.2341101779616246,0.2341101779616246,0.2341101779616246,0.2394190466338463,0.2394190466338463	the sims 4,the sims 4,the sims 4,the sims 3,the sims 3	 plants vs. zombies, simcity 4, team fortress 2,the binding of isaac, minecraft, portal 2
+0	0	0	0	0	mass effect	the witcher
+1	1.0	1.0	1.0	1.0,1.0,1.0	mark of the ninja,mark of the ninja,mark of the ninja,walking dead,walking dead,walking dead,walking dead	mark of the ninja, the walking dead
+0	0	0	0	0		scp
+0	0	0	0	0	deus ex	 homeworld, dwarf fortress, baldurs gate, mirrors edge, max payne, iji,barbie horse adventures, planescape: torment, deus ex
+0	0.15337863363810547	0.15337863363810547	0.15337863363810547	0.15337863363810547	warframe,xbox one	borderlands 2
+0	0	0	0	0	ratchet and clank,ratchet and clank,god of war	 final fantasy 13, metal gear solid, resonance of fate, mass effect,shadow of the colossus
+0	0	0	0	0	space battles,stellaris	 crusader kings 2, europa universalis, sins of a solar empire, hearts of iron, cut it, star wars, special forces, endless space,galactic civilizations ii, fleet command, this game
+0	0	0	0	0		 roguelike,dungeons of dredmor, dungeon crawl
+0	0	0	0	0	minecraft,total war	 daggerfall, avernum, dead end, know how, mass effect, total war,wasteland 2, war games
+0	0	0	0	0	stardew valley,harvest moon,minecraft	planescape torment , endless ocean
+0	0	0	0	0		katawa shoujo
+0	0.23400580605741142	0.23400580605741142	0.23400580605741142	0.23400580605741142	guild wars 2	star wars: the old republic
+0	0	0	0	0	league of legends,starcraft,diablo 3	 tf2, team fortress 2, all games, killing floor, portal 2, dota 2,blacklight: retribution, gotham city impostors, left 4 dead 2
+0	0	0	0	0	hitman,hitman	 hitman, blood money, in between, this game,splinter cell
+1	0.9999999999999997	0.9999999999999997	0.9999999999999997	0.9999999999999997	guild wars 2	guild wars 2
+0	0	0	0	0	league of legends,team fortress 2,dota 2	firefall
+0	0	0	0	0	the last story,the witcher 2,mass effect 2,dark souls	assassins creed ii
+0	0.19342666391802568	0.19342666391802568	0.19342666391802568	0.19342666391802568	mass effect 2,gears of war	 diablo, mother 3, fallout 3, fallout: new vegas, chrono trigger, mass effect, this game,planescape: torment
+0	0	0	0	0	the last of us,the last of us,the last of us,to the moon,moon.	demons souls
+0	0	0	0	0	mass effect	the walking dead
+0	0.11784202136996969	0.11784202136996969	0.11784202136996969	0.11784202136996969	metal gear solid,splinter cell	game over
+0	0.15125751273339016	0.15125751273339016	0.15125751273339016	0.15125751273339016	mass effect,sci-fi	battle for wesnoth, kotor
+0	0	0	0	0	elite: dangerous,star citizen,freelancer	 endless space , sins of a solar empire: trinity, pick up,sins of a solar empire: rebellion, sins of a solar empire: rebellion
+0	0.3149954086146167	0.3149954086146167	0.3149954086146167	0.3149954086146167	total war	sins of a solar empire
+0	0.18212680858250097	0.18212680858250097	0.18212680858250097	0.18212680858250097	mass effect trilogy,the witcher,bioshock	neverwinter nights
+0	0	0	0	0	gears of war,mass effect	castle crashers, borderlands 2
+0	0.1723509836761538	0.24272452548364698	0.08574552536846398	0.23484751746923097,0.12608636638327334,0.24272452548364698,0.08574552536846398	crusader kings,age of wonders,stellaris,total war	dungeons of dredmor
+0	0	0	0	0	city builder,minecraft,simcity	 dwarf fortress, cities xl, simcity 4, tropico 4, sim city, city builder, give up, sc4, openttd, fairy tale, know how, cities in motion 2, minecraft, blockscape,transport tycoon deluxe
+0	0	0	0	0	horizon zero dawn,assassin's creed,the witcher	playstation
+0	0.14062904732302106	0.14115085086016183	0.1401072437858803	0.1401072437858803,0.14115085086016183	shapeshifter,wildstar,sci-fi	 dnd,neverwinter nights, level 5
+0	0.08977592733350774	0.08977592733350774	0.08977592733350774	0.08977592733350774	no man's sky	 space travel, star trek online, eve online, starbound, mass effect, minecraft,star wars: the old republic, freelancer
+0	0	0	0	0		never mind
+0	0.1767383925566901	0.1767383925566901	0.1767383925566901	0.1767383925566901	borderlands 2	minecraft
+0	0	0	0	0		 quake 3, team fortress 2, battlefield heroes, quake live,age of empires online, bloodline champions
+0	0.11257046988734497	0.11257046988734497	0.11257046988734497	0.11257046988734497	guild wars 2,maple story,dragon nest,tera	phantasy star online 2
+0	0	0	0	0	europa universalis iv,game on,game on,game on	hearts of iron
+0	0.23194246214945055	0.23194246214945055	0.23194246214945055	0.23194246214945055	mass effect,sci-fi	sleeping dogs, gta, far cry 3, half-life
+0	0	0	0	0	dragon age: origins,borderlands 2,borderlands 2,the witcher 2,mass effect 2	 diablo 3,torchlight 2
+0	0	0	0	0	super mario world,super mario land,pokemon yellow	 kirby, mario kart,racing games
+0	0	0	0	0		shin megami tensei
+0	0.309742691246964	0.309742691246964	0.309742691246964	0.309742691246964	bioshock infinite,the last of us	the walking dead
+0	0	0	0	0	darksiders,darksiders,god of war	age of mythology
+0	0	0	0	0	dragon's dogma: dark arisen,final fantasy xiv,tales of berseria,final fantasy xv	persona 3
+0	0.1660083753125553	0.19605590192173952	0.13596084870337108	0.13596084870337108,0.19605590192173952	assassin's creed,mass effect,the witcher,far cry,gta	the longest journey, spec ops: the line
+1	0.42821668877379493	0.9999999999999997	0.30779177515312867	0.9999999999999997,0.30779177515312867,0.30779177515312867,0.34548331777757685,0.34548331777757685,0.34548331777757685,0.34548331777757685	planescape: torment,neverwinter nights,neverwinter nights,baldur's gate,baldur's gate,baldur's gate,baldur's gate,icewind dale	 dnd, baldurs gate, time slip, this game,planescape: torment
+0	0.10525204241393554	0.1611768726049847	0.047841248411348375	0.047841248411348375,0.1611768726049847,0.10673800622547354	team fortress 2,left 4 dead 2,garry's mod	 serious sam,serious sam
+0	0	0	0	0	metro 2033	 out there, fallout 3,crysis: warhead, far cry 3
+0	0	0	0	0	super mario 3d world,super mario 3d world,super mario 3d land,animal crossing,mario kart 7,pokemon x	resident evil revelations
+0	0	0	0	0	total war: warhammer,total war: warhammer	crusader kings 2
+0	0	0	0	0	mass effect,the witcher	mass effect trilogy
+0	0	0	0	0		 far cry 3, this game,killing machine, bioshock
+0	0	0	0	0	warframe	 diablo, dnd,neverwinter nights 2, alien swarm
+0	0	0	0	0	ff11,ff14	 secret of mana ,seiken densetsu 3
+0	0	0	0	0	the talos principle,quantum conundrum	 in the dark, glum buster, tag: the power of paint,tomb raider anniversary, spacechem, portal 2
+0	0	0	0	0	farming simulator,stardew valley,stardew valley	dont fall
+0	0	0	0	0	dragon age: inquisition,guild wars 2	dark souls
+0	0	0	0	0	minecraft,minecraft,starcraft,portal 2	trine 2
+0	0	0	0	0		guild wars 2, guild wars 2, endgame
+0	0	0	0	0		 mario kart,heroes of ruin, bots, know how
+0	0	0	0	0	mass effect,the witcher	fallout 2, deus ex
+0	0	0	0	0		crysis 2
+0	0.22538638149365617	0.22538638149365617	0.22538638149365617	0.22538638149365617	the sims 3	dwarf fortress, this game, minecraft
+0	0	0	0	0	mass effect,mass effect,pick up,pick up	 mass effect, kotor,dragon age: origins, deus ex
+0	0	0	0	0	battlefield 3,tomb raider,crysis 2	crysis warhead, mechwarrior, crysis 2
+0	0.12068350430460233	0.12068350430460233	0.12068350430460233	0.12068350430460233	dayz	minecraft
+0	0	0	0	0	endless space,game on,civ	speed up, know how
+0	0	0	0	0	the elder scrolls online,the elder scrolls online,the witcher,the witcher,i'm sorry	the sims
+0	0.12680237245813492	0.15708384938098455	0.09652089553528526	0.09652089553528526,0.15708384938098455	call of duty: world at war,battlefield 3	 call of duty, counter strike,team fortress 2
+0	0	0	0	0	gears of war,mass effect,xbox 360	bioshock, deus ex
+0	0	0	0	0		 dark souls,you will die
+0	0	0	0	0	the walking dead,the witcher 2,minecraft,starcraft	 raiderz,scribblenauts, far cry, hawken, borderlands 2
+0	0	0	0	0	pokemon x	castle crashers, splosion man
+0	0	0	0	0	mass effect,the witcher,ffx	the witcher 2
+0	0	0	0	0	total war	battlestations
+0	0	0	0	0		nuclear war, know how
+0	0.4040325317845206	0.4747332703673126	0.33333179320172857	0.33333179320172857,0.4747332703673126	tales of symphonia,final fantasy,gamecube,gamecube	the world ends with you
+0	0	0	0	0	xenonauts	temple of elemental evil, fallout tactics, battle for wesnoth, wargames , jagged alliance 2
+0	0.12172901509146401	0.12172901509146401	0.12172901509146401	0.12172901509146401	angry birds	trackmania
+0	0	0	0	0	final fantasy tactics,final fantasy tactics,kingdom hearts	time management, fallout 3
+0	0	0	0	0		war of the roses
+0	0	0	0	0	xcom: enemy unknown	x-com: enemy unknown
+0	0.10577678371876081	0.10577678371876081	0.10577678371876081	0.10577678371876081	original journey	 just cause 2,strategy games, war games, rome total war
+0	0.15266867853959148	0.15266867853959148	0.15266867853959148	0.15266867853959148	call of duty 4,half-life	 roguelike,dungeon crawl
+0	0	0	0	0	gears of war,halo reach,halo reach,halo reach,halo reach,halo reach,halo reach,halo reach,halo 3,halo 3,halo 3,halo 3,halo 3,halo 3,halo 3	red dead redemption
+0	0	0	0	0	heroes of the storm,world of warcraft,league of legends,borderlands 2,left 4 dead 2,minecraft,overwatch,starcraft,portal 2,diablo 3,dota 2	call of cthulhu: dark corners of the earth, this game
+0	0.3385844102045343	0.3385844102045343	0.3385844102045343	0.3385844102045343	the witcher 2,mass effect,sci-fi,sorry!	the walking dead
+0	0	0	0	0		mass effect
+1	0.7264094221327803	1.0	0.1792282663983408	1.0,1.0,0.1792282663983408	monster hunter,monster hunter,guild wars 2,tera	 dark souls, dragons dogma,monster hunter, raiderz, tera, vindictus
+0	0	0	0	0		pick up, xbox
+0	0	0	0	0	devil may cry,the witcher 2,darksiders,dmc	 bioshock ,assassins creed 
+0	0	0	0	0	mass effect,the witcher	dark souls
+0	0	0	0	0	warframe	castle crashers
+0	0.0	0.0	0.0	0.0,0.0,0.0,0.0,0.0	no man's sky,subnautica,turn off,turn off,turn off	fallout new vegas, myst, kairo
+0	0.2501523618981416	0.2501523618981416	0.2501523618981416	0.2501523618981416	pillars of eternity	magicka
+0	0.0814278215774914	0.0814278215774914	0.0814278215774914	0.0814278215774914	divinity: original sin	 geneforge,anachronox
+0	0	0	0	0	mass effect,mass effect,the witcher	 mass effect,baldurs gate 
+0	0	0	0	0		magicka
+0	0	0	0	0	age of empires 2,age of empires 3	rome: total war
+0	0	0	0	0	europa universalis	crusader kings 2
+0	0	0	0	0	rimworld,factorio	 minecraft,dont starve, need to eat, endgame
+0	0	0	0	0	the witcher 2	alpha protocol
+0	0	0	0	0	lego harry potter,lego star wars,lego batman 2	castle crashers, castle crashers
+0	0.16049772734215312	0.19197437299476408	0.09754443603693119	0.19197437299476408,0.19197437299476408,0.09754443603693119	the long dark,the long dark,don't starve	dayz
+0	0.3218785993908467	0.3218785993908467	0.3218785993908467	0.3218785993908467	the long dark	alone in the dark
+0	0.15424244589949784	0.15424244589949784	0.15424244589949784	0.15424244589949784	final fantasy vii,scribblenauts,sorry!	scribblenauts unlimited
+0	0	0	0	0	the sims 3,the sims 3	maestro! jump in music, spore creature creator, knytt stories, nanashi no game, minecraft, faerie solitaire, audiosurf, little inferno, this game, irisu
+0	0	0	0	0	assassin's creed,watch dogs,just cause,saints row,far cry,gta	dark souls
+0	0	0	0	0	assassin's creed,guild wars 2,mass effect,tomb raider,dark souls,bioshock	 xbox,deus ex: human revolution
+0	0	0	0	0	candy box	 roguelike,dungeons of dredmor
+0	0	0	0	0		legend of dragoon, final fantasy vii
+0	0.3297396615869142	0.3297396615869142	0.3297396615869142	0.3297396615869142	ni no kuni	final fantasy iv, chrono trigger
+0	0	0	0	0		diablo
+0	0	0	0	0	total war,gta,gta	 the witcher,dragon age: origins
+0	0	0	0	0	minecraft,portal 2,portal 2,portal 2,portal 2	rayman origins, out there
+0	0.21495495550413454	0.21495495550413454	0.21495495550413454	0.21495495550413454	dwarf fortress	prison architect
+0	0	0	0	0	stellaris	victoria 2
+0	0	0	0	0	tales of symphonia,final fantasy,dragon quest,gamecube	 alundra 2,grandia 2, guess it
+0	0	0	0	0	injustice 2	street fighter, soul calibur, be good
+0	0	0	0	0		pokemon x
+0	0.2131628318696074	0.22099980277431416	0.19748889006019396	0.19748889006019396,0.22099980277431416,0.22099980277431416	pillars of eternity,baldur's gate,baldur's gate	 xbox, gladius,gladius
+0	0	0	0	0	total war	assassins creed, dead island, far cry 3, sci-fi
+0	0.21362469125563796	0.21362469125563796	0.21362469125563796	0.21362469125563796,0.21362469125563796	city builder,city builder,simcity,simcity,simcity	 kairobotica, dungeon village,dungeon village, game dev story
+0	0	0	0	0		 ff13,know how
+0	0	0	0	0		assassins creed 2, ac2, bioshock 2
+0	0	0	0	0	strategy games,war games,total war,civ	 total war,sword of the stars , among the stars, medieval 2, strategy games, war games
+0	0	0	0	0	shadow watch	xcom: enemy unknown
+0	0	0	0	0	mass effect trilogy	tales of vesperia
+1	0.4990846511179986	1	0.15934243151665137	0.1767383925566901,1,1,0.15934243151665137,0.15934243151665137	borderlands 2,minecraft,minecraft,portal 2,portal 2	 xbox, minecraft,minecraft
+0	0.29075820035922223	0.29075820035922223	0.29075820035922223	0.29075820035922223	dragon age: inquisition,dragon age: inquisition,dragon age: origins,inquisition*,inquisition*,the witcher	 far cry 3,darksiders
+0	0.18597157534977096	0.18597157534977096	0.18597157534977096	0.18597157534977096	warframe	 minecraft,minecraft
+0	0	0	0	0	metro 2033	 state of decay,fallout: new vegas, fallout 3, left 4 dead 2
+0	0.1749831170760772	0.1749831170760772	0.1749831170760772	0.1749831170760772	full spectrum warrior	frozen synapse
+0	0	0	0	0	monster hunter freedom unite demo	shadow of the colossus
+0	0.21724759626724968	0.21724759626724968	0.21724759626724968	0.21724759626724968	dragon age: inquisition,dragon age: origins,the last of us,dragon age 2,mass effect,the witcher	castlevania, los, nier
+0	0	0	0	0	xenoblade chronicles,xenoblade chronicles	legend of dragoon, playstation
+0	0.0893465032715932	0.0893465032715932	0.0893465032715932	0.0893465032715932	call of duty,mass effect	 dark souls,the walking dead, borderlands 2, hotline miami
+0	0	0	0	0	saints row,gta,gta	tenchu
+0	0	0	0	0	planetside 2,planetside 2	tf2, tf2
+1	1.0	1.0	1.0	1.0,1.0,1.0	ni no kuni,ni no kuni,ni no kuni,persona 4	ni no kuni
+0	0	0	0	0	assassin's creed,just cause,just dance,just dance,saints row,far cry,gta	 just cause,saints row the third
+0	0	0	0	0		future games
+0	0.2308218208308518	0.2308218208308518	0.2308218208308518	0.2308218208308518	dragon age: inquisition,dragon age: origins,dragon age 2,mass effect,mass effect,the witcher,gothic 2	 arcania,gothic ii
+1	1	1	1	0	the witcher 2,mass effect	 ni no kuni,the witcher 2, the witcher 2
+0	0	0	0	0	kingdoms of amalur: reckoning	 suikoden,skies of arcadia
+0	0.030538018653267246	0.030538018653267246	0.030538018653267246	0.030538018653267246	final fantasy xiv,ragnarok	eve online
+0	0	0	0	0	borderlands 2	trine 2
+0	0	0	0	0	assassin's creed,the witcher 2,gta	banjo-tooie, minecraft
+0	0.16104821348076348	0.1954671296523772	0.12897503222135823	0.158702478568555,0.12897503222135823,0.1954671296523772	planetside 2,war thunder,warframe	 pick up, call of duty,team fortress 2, tf2
+0	0.1533020564843097	0.1533020564843097	0.1533020564843097	0.1533020564843097	mass effect,sci-fi	 to the moon,spec ops: the line
+0	0	0	0	0	mass effect,mass effect,silent hill	spec ops
+0	0	0	0	0	mass effect trilogy,planescape: torment,the witcher 2	assassins creed, get away
+0	0	0	0	0	dark souls	darksiders 2, terraria , be good, thq
+0	0	0	0	0	roguelike,roguelike,roguelike,roguelike,roguelike	crusader kings 2
+0	0	0	0	0	forza horizon 3,race on	burnout: paradise
+1	0.7005674216902373	1.0	0.10170226507071183	1.0,1.0,0.10170226507071183	borderlands 2,borderlands 2,call of duty	 far cry 3,borderlands 2
+0	0	0	0	0	the witcher 2	final fantasy, final fantasy
+1	0.41931216931216925	0.9999999999999999	0.07936507936507936	0.9999999999999999,0.17857142857142858,0.07936507936507936	mass effect trilogy,fallout: new vegas,borderlands 2,the witcher 2,deus ex	 serious sam,fallout: new vegas, duke nukem forever, game on
+0	0	0	0	0		 hl2,tropico
+0	0	0	0	0	the stanley parable,the stanley parable,the walking dead,the witcher 2	 crayon physics, noitu love 2, giana sisters,the binding of isaac 
+0	0	0	0	0	assassin's creed,titanfall 2,wolfenstein	penny arcade, xbox, bulletstorm
+0	0	0	0	0	splinter cell blacklist,i'm sorry	 resident evil 5, asc,littlebigplanet
+0	0	0	0	0	strategy games,strategy games,war games,total war	heroes of might and magic
+1	0.7260393500622554	1.0	0.17811805018676619	0.17811805018676619,1.0,1.0	strategy games,total war,total war,civ,civ	 civ,total war
+0	0.3141478754356745	0.3141478754356745	0.3141478754356745	0.3141478754356745	alien: isolation	 silent hill,resident evil 4, bioshock, rpg maker, s.t.a.l.k.e.r., metro 2033, scp-087-b, oni
+0	0.08737305593648104	0.08737305593648104	0.08737305593648104	0.08737305593648104	the witcher 2,mass effect,sci-fi	 starcraft, game on, magicka, my friends,physics sandbox, endgame, stronghold 2, star wars, to the top, civ, this game, portal 2
+0	0.1078965053308313	0.1078965053308313	0.1078965053308313	0.1078965053308313	factorio	time management, the sims, turn it
+0	0	0	0	0	guild wars 2	tera
+0	0	0	0	0	xbox one,bioshock	system shock 2
+0	0.11276191118648055	0.15336519043041338	0.0759511053285519	0.1328976034858388,0.0759511053285519,0.08883374550111807,0.15336519043041338	day of the tentacle,adventure games,adventure games,full throttle,king's quest,space quest,for glory,sam & max,fuck you,fuck you	 fuck you, dark souls,super meat boy
+0	0.23211250806255482	0.23211250806255482	0.23211250806255482	0.23211250806255482	devil may cry hd collection,dmc4	darksiders
+0	0.1988596114321843	0.1988596114321843	0.1988596114321843	0.1988596114321843,0.1988596114321843,0.1988596114321843	mass effect,mass effect,the witcher,the witcher,the witcher	roguelike
+0	0	0	0	0	super mario bros.,super mario bros.,super metroid,tomb raider	assassins creed
+0	0.2549867719326326	0.2549867719326326	0.2549867719326326	0.2549867719326326	mass effect,mass effect,mass effect,the witcher	the walking dead
+0	0.1767383925566901	0.1767383925566901	0.1767383925566901	0.1767383925566901	borderlands 2,diablo 3	minecraft
+0	0.11963544965350977	0.11963544965350977	0.11963544965350977	0.11963544965350977	warframe	this game
+0	0.2236924870568104	0.2236924870568104	0.2236924870568104	0.2236924870568104	craft the world	dwarf fortress
+1	0.5323977591598712	1.0	0.16765901357641497	0.3266707686465259,0.16765901357641497,0.16765901357641497,1.0,1.0	deus ex: human revolution,mark of the ninja,alpha protocol,splinter cell,splinter cell,sniper elite,sniper elite,hitman,hitman	hitman
+0	0.0866131989547592	0.0866131989547592	0.0866131989547592	0.0866131989547592	the stanley parable	dungeon crawl
+0	0	0	0	0	borderlands 2,the witcher 2,mass effect,minecraft	ive
+0	0.23425307755269015	0.29563372250877384	0.17287243259660645	0.29563372250877384,0.17287243259660645	assassin's creed,mass effect,the witcher	just cause
+0	0.09948605495668561	0.09948605495668561	0.09948605495668561	0.09948605495668561	forza horizon 3,forza horizon 3,nascar	 gran turismo 5,grand prix story, gt5
+1	1	1	1	0	age of mythology,age of mythology,aoe2,aoe2,aoe2	aoe2
+0	0.173823074894771	0.21091513999762382	0.1367310097919182	0.21091513999762382,0.1367310097919182	dead rising 2: off the record,arma 2,dayz	project zomboid
+0	0	0	0	0		 metal gear solid, jak and daxter,ratchet and clank
+0	0	0	0	0	dark souls,dark souls,dark souls,dark souls,dark souls,dark souls	 arma ii,day z mod
+0	0	0	0	0		persona 4 golden, persona 3 fes
+0	0.1726231106589108	0.1726231106589108	0.1726231106589108	0.1726231106589108	mass effect 3,the sims 3	thomas was alone
+0	0	0	0	0	shadow complex	trine 2
+0	0	0	0	0	guild wars 2,we are	the witcher 2, the witcher 2, deus ex
+0	0	0	0	0	kingdom hearts,final fantasy,fantasy games,tomb raider	 prison architect, hotline miami, cave story,the binding of isaac 
+0	0	0	0	0	mass effect,bioshock	 heavy rain,heavy rain
+0	0.19412188582247855	0.19412188582247855	0.19412188582247855	0.19412188582247855	guild wars 2	 diablo,path of exile
+0	0	0	0	0	metal gear solid,metal gear solid,metal gear solid,final fantasy x	daxter
+0	0	0	0	0	elite: dangerous,wing commander,space shooter,star citizen,freelancer,everspace,roguelike	temple of elemental evil, starflight, fallout tactics, star control, escape velocity nova, jagged alliance 2
+0	0.037037037037037035	0.037037037037037035	0.037037037037037035	0.037037037037037035	titanfall 2,wolfenstein	 serious sam,team fortress 2, bulletstorm
+0	0	0	0	0	minecraft: story mode	 star wars,minecraft
+1	1	1	1	0	metro 2033	metro 2033
+0	0.2747346552426502	0.2747346552426502	0.2747346552426502	0.2747346552426502	cave story+	 cave story,cave story
+0	0.27361499284215757	0.27361499284215757	0.27361499284215757	0.27361499284215757	guild wars 2	runescape
+0	0.10253557223599645	0.10253557223599645	0.10253557223599645	0.10253557223599645	europa universalis iv,conquer the world,tradewinds,tradewinds	 port royale, east india company,east india company
+0	0	0	0	0		my friends, break down
+0	0.24998842005903532	0.2824586404926956	0.13793023998846937	0.2824586404926956,0.2698854099682617,0.2698854099682617,0.2698854099682617,0.2698854099682617,0.13793023998846937	the long dark,the witcher,the witcher,the witcher,the witcher,minecraft	 and yet it moves, dungeons of dredmor,the binding of isaac, mark of the ninja, hotline miami, they bleed pixels
+0	0	0	0	0		 dark souls,the witcher, metro 2033
+0	0	0	0	0	the legend of zelda,super mario world,super mario bros.,super mario kart,super mario rpg,super metroid	 super mario kart, shadowrun,the legend of zelda: a link to the past, super mario world, racing games
+1	0.9999999999999997	0.9999999999999997	0.9999999999999997	0.9999999999999997	guild wars 2	guild wars 2
+0	0.18732531651565756	0.18732531651565756	0.18732531651565756	0.18732531651565756	the witcher,xbox one	star wars: the old republic
+0	0	0	0	0	deus ex	rainbow six
+0	0	0	0	0	mass effect,the witcher,sci-fi	the witcher 2
+0	0.13744473945830135	0.13870951591550787	0.13617996300109483	0.13617996300109483,0.13870951591550787	league of legends,warcraft 3,starcraft,dota 2	 runescape, left 4 dead, planetside 2, killing floor, this game, play!, borderlands 2, portal 2,dungeon defenders
+0	0	0	0	0	mass effect trilogy	 fuck you, game on, arx fatalis, mirrors edge,dark messiah of might and magic, deus ex: human revolution, s.t.a.l.k.e.r.
+0	0	0	0	0	hitman: absolution,mass effect,bioshock,deus ex	mass effect trilogy, deus ex, think twice, bioshock
+0	0	0	0	0	tales of graces f	persona 4 golden, blazblue
+0	0	0	0	0	super smash bros. for wii u,super mario 3d world,pokemon x	 etrian odyssey iv, kid icarus: uprising,monster hunter 3 ultimate, game on
+0	0	0	0	0	super mario all-stars,the legend of zelda,super mario bros. 3,super mario bros. 2,super mario bros. 2,super mario world,super mario kart,super metroid,duck hunt,nes	kirby, nes
+0	0.08755103117953812	0.08755103117953812	0.08755103117953812	0.08755103117953812	total war: shogun 2	 total war, war games,the three kingdoms
+0	0	0	0	0	the legend of zelda: link's awakening dx ,the legend of zelda: breath of the wild ,the legend of zelda: twilight princess,the legend of zelda: ocarina of time,the legend of zelda: skyward sword ,the legend of zelda: majora's mask 	fire emblem
+0	0.11321903241759473	0.197254694799841	0.036058960810916564	0.036058960810916564,0.197254694799841,0.10634344164202665	guild wars 2,minecraft,portal 2,diablo 3	 starcraft, dawn of war,supreme commander, diablo 3, trackmania
+0	0	0	0	0	total war: warhammer ii,europa universalis iv,total war: rome ii,crusader kings ii,hearts of iron iv,total war: attila,endless legend,endless space,victoria ii,stellaris	 total war,heroes of might and magic 3
+0	0	0	0	0	dragon age: inquisition	titan quest, sacred 2
+0	0	0	0	0	warcraft 3,starcraft,diablo 2	xbox
+0	0.12981547462198162	0.12981547462198162	0.12981547462198162	0.12981547462198162	diablo 3,endgame	dungeon defenders
+0	0	0	0	0	the last of us,the last of us,heavy rain,heavy rain	walking dead, hitman, portal 2
+0	0.12665884665570518	0.12665884665570518	0.12665884665570518	0.12665884665570518	divinity: original sin	guild wars 2, ffxiv, hard time
+0	0	0	0	0	dragon age: inquisition,mass effect	 nwn, kotor,neverwinter nights
+1	1.0	1.0	1.0	1.0,1.0	runescape,runescape	 runescape,runescape
+0	0.1705448189834252	0.1705448189834252	0.1705448189834252	0.1705448189834252	medieval 2,total war	 homeworld,homeworld
+1	1.0	1	1	1	minecraft	minecraft
+0	0	0	0	0		far cry 3
+0	0.21817797366403793	0.2506452579971408	0.18571068933093504	0.18571068933093504,0.2506452579971408	city builder,rimworld,sim city	dwarf fortress
+0	0	0	0	0	mass effect	kingdoms of amalur: reckoning
+0	0.2714240022070512	0.31101251594860374	0.23183548846549865	0.23183548846549865,0.31101251594860374	the stanley parable,the walking dead,the witcher 2,the witcher 2	 fallout 1 , gta, mass effect 3, plants vs zombies, trine 2, red dead redemption, sleeping dogs, civilization v, fallout new vegas, xcom: enemy unknown, fallout 2 , tribes: ascend , dota 2,planescape: torment, dark souls, super hexagon, counter strike, the tv show, bejeweled 3, path of exile, saints row 3, borderlands 2, far cry 3, team fortress 2, the walking dead , mark of the ninja, max payne 3, torchlight 2, diablo 3
+0	0	0	0	0	castlevania: symphony of the night,bloodstained: ritual of the night,ori and the blind forest,hollow knight,axiom verge	 xbox 360,shadow complex, metroid fusion, super metroid
+0	0	0	0	0		into the deep
+0	0	0	0	0	gta,gta,gta	scarface
+0	0	0	0	0	euro truck simulator,euro truck simulator,transport fever	 only if,recettear: an item shops tale
+0	0	0	0	0	mass effect,deus ex,sci-fi,sci-fi	metro 2033
+0	0	0	0	0	cities: skylines,city builder	the guild 2
+0	0.1137283345009192	0.1137283345009192	0.1137283345009192	0.1137283345009192	battlefield 2142,planetside 2	frozen synapse
+0	0.15858675456152377	0.18801038674617584	0.11445130628454574	0.18801038674617584,0.18801038674617584,0.18801038674617584,0.11445130628454574,0.11445130628454574	the walking dead,the walking dead,the walking dead,life is strange,life is strange	to the moon, love story
+0	0	0	0	0	bioshock infinite,bioshock infinite,bioshock infinite,the witcher 2,the witcher 2,the witcher 2,far cry 3,far cry 3,far cry 3	 fallout 3, the witcher 2,excellent games
+0	0	0	0	0	college basketball,nba 2k16	nfl head coach, this game
+0	0	0	0	0	final fantasy xiv	 diablo,path of exile
+0	0	0	0	0	assassin's creed,the witcher,just cause,far cry,gta	 xbox,red dead redemption
+0	0.027330322150480202	0.027330322150480202	0.027330322150480202	0.027330322150480202	guild wars 2	 guild wars 2, aoe, yahtzee,ring of fire
+0	0	0	0	0		rockstar
+0	0	0	0	0	mass effect,deus ex	katawa shoujo, walking dead, ffx
+0	0.34548331777757685	0.34548331777757685	0.34548331777757685	0.34548331777757685,0.34548331777757685	baldur's gate,baldur's gate,mass effect,mass effect	 super mario rpg, dungeon crawl, castlevania, baldurs gate, diablo, dragon quest, chrono trigger,planescape: torment, final fantasy
+0	0	0	0	0	monster hunter,monster hunter,monster hunter,dark souls	playstation 2
+0	0	0	0	0	overwatch	 counter-strike, pick up,team fortress 2, tf2
+0	0.06746048689943394	0.06746048689943394	0.06746048689943394	0.06746048689943394	guild wars 2	 daggerfall,s.t.a.l.k.e.r.
+0	0	0	0	0	deus ex	alpha protocol, mass effect, alpha protocol
+0	0.28405204405879203	0.28405204405879203	0.28405204405879203	0.28405204405879203	disney infinity,total war	 nintendo 3ds, out there, total war, strategy games, this game,company of heroes, civ, test drive, alpha centauri, go to hell, arcade games
+0	0	0	0	0	tradewinds,eve online	 pick up,escape velocity nova, port royale, dawn of discovery
+1	0.4434833734114168	1.0	0.16522506011712526	0.16522506011712526,0.16522506011712526,0.16522506011712526,0.16522506011712526,0.16522506011712526,0.16522506011712526,1.0,1.0,1.0	tomb raider,tomb raider,tomb raider,tomb raider,tomb raider,tomb raider,far cry 3,far cry 3,far cry 3	far cry 3
+0	0	0	0	0	mega man zero collection,retro games,nes	 nes,nanashi no game
+0	0	0	0	0	puzzle bobble,pick up	bomberman
+0	0	0	0	0	mass effect,the witcher	dark souls
+0	0	0	0	0		 minecraft,state of decay, i am super, dayz
+0	0	0	0	0		 nes,the world ends with you, crimson gem saga, chrono trigger
+0	0	0	0	0	lego pirates of the caribbean,lego indiana jones,lego indiana jones,lego harry potter,lego harry potter,lego star wars,lego star wars,lego batman	 this game,this game
+0	0	0	0	0	world at war,call of duty,call of duty,halo 2	gta 4
+0	0.1895411164474503	0.2724706563323782	0.1066115765625224	0.2724706563323782,0.1066115765625224	monster hunter world,toukiden 2,step up,tri	 monster hunter, dragons dogma,monster hunter, xbox, key features
+0	0.10560748272883592	0.15617143087961652	0.06821939943114862	0.15617143087961652,0.06821939943114862,0.09243161787574265	league of legends,dota 2,bots	supreme commander, league of legends
+0	0.20451224473431642	0.20451224473431642	0.20451224473431642	0.20451224473431642	total war	 scribblenauts,crusader kings ii
+1	0.6987056450007079	0.9999999999999999	0.39741129000141573	0.9999999999999999,0.39741129000141573	god of war: ascension,bioshock infinite,dead space 3,dead space 3,dead space 3,tomb raider	 gears of war,bioshock infinite, bioshock infinite
+0	0	0	0	0		bots, lol
+0	0.14817199546076826	0.19438450450795144	0.12506574093717665	0.19438450450795144,0.12506574093717665,0.12506574093717665	the beginner's guide,the stanley parable,the stanley parable	 dreamfall,the longest journey, broken sword
+0	0.12746375918602917	0.12746375918602917	0.12746375918602917	0.12746375918602917	tomb raider,simcity	 frozen synapse, dont starve, company of heroes,dungeons of dredmor, torchlight ii, civ, cortex command, roguelike, eufloria, minecraft, diablo 3
+0	0	0	0	0	the witcher	 neverwinter nights 2, ddo, mass effect 3, kings bounty, xbox,dark souls: prepare to die edition
+0	0.04345383037247147	0.049236194329121546	0.037671466415821385	0.049236194329121546,0.037671466415821385	command and conquer,total annihilation,age of empires,red alert,starcraft	dawn of war
+0	0	0	0	0	the witcher 2,deus ex	metro 2033
+0	0	0	0	0	war games,total war,civ	homm
+0	0	0	0	0	hitman: absolution,bioshock infinite,tomb raider,far cry 3	enslaved: odyssey to the west
+0	0.23471633644695275	0.23471633644695275	0.23471633644695275	0.23471633644695275,0.23471633644695275	wargame,wargame	 r.u.s.e., wargames,wargame: european escalation
+0	0	0	0	0	the witcher 2	 bioshock infinite, spec ops the line,bioshock infinite, fix it, bioshock 1, pick up, darkness 2
+0	0	0	0	0	farming simulator,stardew valley,starbound,minecraft	 warcraft 3, minecraft,world of warcraft
+1	1.0	1	1	1	planetside 2,xbox 360,xbox one	planetside 2
+0	0	0	0	0	minecraft,starcraft,dota 2	 diablo,warcraft 3
+0	0	0	0	0	xenoblade chronicles,the last story	xenoblade
+0	0	0	0	0	microsoft flight simulator,the flight simulator,x-wing,x-wing,x-wing	 arma iii,search and rescue 4
+0	0	0	0	0		lol
+0	0	0	0	0	star wars: the old republic,final fantasy xiv,guild wars 2	dragons online
+0	0	0	0	0	total war: warhammer,europa universalis	little things
+1	0.5822055646796618	1.0	0.16441112935932353	0.16441112935932353,1.0	the elder scrolls online,mass effect,the witcher	the witcher
+0	0	0	0	0	gta	 minecraft,minecraft
+0	0	0	0	0	guild wars 2	dofus
+0	0	0	0	0		spec ops: the line
+0	0.13793023998846937	0.13793023998846937	0.13793023998846937	0.13793023998846937	minecraft	the binding of isaac, pick up, geometry wars
+1	0.5636555451850511	0.9999999999999997	0.34548331777757685	0.9999999999999997,0.34548331777757685,0.34548331777757685	planescape: torment,baldur's gate,baldur's gate,icewind dale	 bg2,planescape: torment, baldurs gate
+0	0	0	0	0	kingdom: new lands,kingdom: new lands,kingdom: new lands,dwarf fortress,dwarf fortress,dwarf fortress,dwarf fortress	starcraft
+0	0	0	0	0	quantum of solace,james bond 007,goldeneye,spy game	floor 13
+0	0.03061218585034157	0.03061218585034157	0.03061218585034157	0.03061218585034157	the witcher,dark souls	chivalry: medieval warfare
+0	0	0	0	0	minecraft,minecraft,minecraft,portal 2	 portal 2,torchlight 2
+0	0.22353529647117626	0.31364875585429663	0.13342183708805588	0.13342183708805588,0.31364875585429663	don't starve,minecraft	 dota 2, you up,dungeon defenders
+0	0	0	0	0	diablo 3	 kings bounty, path of exile, trine 2, mass effect, torchlight 2,dungeon defenders
+1	0.4289331889448815	1.0	0.11392713423803803	0.11392713423803803,1.0,0.17287243259660645	assassin's creed,the witcher,just cause,far cry,gta	the witcher
+0	0.18169384423548884	0.18169384423548884	0.18169384423548884	0.18169384423548884	mass effect,crysis	planescape: torment, baldurs gate
+0	0	0	0	0	secret of evermore,seiken densetsu 3,illusion of gaia,secret of mana,soul blazer,terranigma	brain lord
+0	0.07403441983056293	0.07403441983056293	0.07403441983056293	0.07403441983056293	guild wars 2	 team fortress 2,league of legends, alien swarm, warframe, raiderz, diablo, tribes: ascend, vindictus
+0	0	0	0	0	dragon age: origins,the witcher 2,the witcher 2	neverwinter nights 2
+1	1.0	1	1	1	warframe	warframe
+0	0	0	0	0	sniper elite,metro 2033	counter strike
+0	0	0	0	0	killing floor	mass effect 3, l4d
+0	0	0	0	0	the witcher 2,the witcher 2,mass effect,sci-fi	dragon age: origins
+0	0	0	0	0	dragon age: inquisition,the witcher 2	ni no kuni: wrath of the white witch, level 5
+0	0.11453716966879439	0.11453716966879439	0.11453716966879439	0.11453716966879439,0.11453716966879439	minecraft,minecraft	 this game,this game
+0	0	0	0	0	guild wars 2	final fantasy xiv: a realm reborn
+0	0	0	0	0	mass effect,bioshock,sci-fi	 natural selection 2, out there, battlefield 3, civilization 5,battlefield bad company 2, this game
+1	0.6034898643290278	0.9999999999999999	0.2069797286580557	0.2069797286580557,0.9999999999999999	dungeon crawl,roguelike	roguelike
+0	0	0	0	0	gamecube	final fantasy tactics
+0	0	0	0	0	close combat,titanfall 2,titanfall 2,i'm sorry	goldeneye
+0	0.15789042940223463	0.15789042940223463	0.15789042940223463	0.15789042940223463	mass effect trilogy,half-life,bioshock	fallout 3, pick up, deus ex
+0	0	0	0	0	mass effect	 space station,space station
+0	0	0	0	0	wolfenstein: the new order	 doom 3,in your face, kick-ass, half-life, mario 1, serious sam
+0	0.10503276397990635	0.2100655279598127	0.0	0.0,0.0,0.2100655279598127,0.2100655279598127	resident evil,resident evil,doom 3,doom 3	 metro 2033, fallout 3,dead space
+0	0.1895664120311641	0.1895664120311641	0.1895664120311641	0.1895664120311641	the witcher 2,the witcher 2,psychonauts	the witcher
+0	0.1333633452643623	0.1333633452643623	0.1333633452643623	0.1333633452643623	planetside 2	chivalry: medieval warfare
+0	0	0	0	0		hard time
+0	0	0	0	0	the elder scrolls online	mass effect
+0	0	0	0	0	madden 2003,madden 2004	pick up
+0	0	0	0	0	deus ex	walking dead
+0	0	0	0	0		 far cry 3,deus ex: human revolution
+0	0	0	0	0	diablo 3,diablo 3,diablo 3	lego star wars
+0	0	0	0	0	the witcher,deus ex	 vampire: the masquerade - bloodlines, fallout 3, deus ex: human revolution,star wars: knights of the old republic, anachronox
+0	0	0	0	0	age of mythology	warlords 2
+0	0.27777777777777773	0.27777777777777773	0.27777777777777773	0.27777777777777773,0.27777777777777773	goat simulator,goat simulator	just cause 2
+0	0.20243596082839133	0.2074785062308122	0.19739341542597047	0.19739341542597047,0.2074785062308122	the witcher,metro 2033,alan wake	frozen synapse
+0	0	0	0	0		fallout 3
+0	0.18452099243503464	0.32564839464182227	0.0	0.22791458266328166,0.32564839464182227,0.0	clive barker's undying,alone in the dark,alien: isolation,resident evil,silent hill	out of this world
+0	0	0	0	0	mass effect,mass effect,titanfall	 batman arkham asylum, battlefield 3, civ 4, far cry,battlefield bad company 2, total war
+0	0.061263196608476074	0.061263196608476074	0.061263196608476074	0.061263196608476074	dota 2	league of legends
+0	0	0	0	0		 heart of darkness, the walking dead,spec ops the line, max payne, rockstar
+0	0.18749619516176683	0.21628991175497866	0.158702478568555	0.158702478568555,0.21628991175497866	planetside 2,quake live	team fortress 2
+0	0	0	0	0	battlefield 1942,battlefield 1942,battlefield 1942,battlefield 1942,battlefield 4,battlefield 3,battlefield 2	an awesome game
+0	0	0	0	0		donkey kong country
+0	0	0	0	0	devil may cry,devil may cry,tomb raider,dmc,dmc	dark souls
+0	0	0	0	0	arma 2,dayz	 stranded ii,dont starve, game on
+0	0	0	0	0	the witcher 2,mass effect,mass effect,mass effect	heavy rain
+0	0	0	0	0	the witcher	dark souls
+0	0	0	0	0	galactic civilizations iii,sins of a solar empire,endless space,stellaris	 sins of a solar empire,nexus: the jupiter incident
+1	0.40313920456815105	1.0	0.05288928474206019	1.0,0.05288928474206019,0.31223784588122033,0.2474296876493239	amnesia: the dark descent,the evil within,the last of us,fatal frame,dead space,alan wake	 prince of persia, in the dark, guerrilla war, scp, falling down,amnesia: the dark descent, red faction guerrilla
+0	0.3382248556743295	0.3382248556743295	0.3382248556743295	0.3382248556743295	warframe	path of exile
+0	0.11126855533802531	0.11126855533802531	0.11126855533802531	0.11126855533802531	cave story	dwarf fortress
+0	0	0	0	0	the witcher 2	big rigs
+0	0.018852055832039253	0.018852055832039253	0.018852055832039253	0.018852055832039253	guild wars 2	this game
+1	1.0	1.0	1.0	1.0,1.0,1.0	dota 2,dota 2,dota 2	dota 2
+0	0	0	0	0		pick up, sci-fi
+0	0	0	0	0	the last of us	bioshock infinite, far cry 3
+0	0	0	0	0		spec ops: the line
+0	0	0	0	0	metal gear solid,metal gear solid,mass effect,dark souls	 donkey kong, yoshi, diablo, galactic civilizations, system shock, total war, grand theft auto 3, castlevania,call of cthulhu: dark corners of the earth, metal gear solid, metroid, legacy of kain, dreamcast, super mario rpg, gamecube, katamari, xbox, playstation 2, fight night, final fantasy 2, super mario world, ultima underworld, homeworld, nes, super mario bros, oddworld, resident evil, bushido blade, this game, ninja, dark cloud
+0	0	0	0	0		 twisted metal, heavy rain, wipeout hd, motorstorm, yakuza, metal gear solid, ico, gran turismo, god of war, little big planet,shadow of the colossus, killzone, daxter
+0	0.13396189735149502	0.13396189735149502	0.13396189735149502	0.13396189735149502	l.a. noire	gemini rue
+0	0	0	0	0	dungeon keeper	 quake ii,stranded ii
+0	0	0	0	0	the witcher 2,mass effect,deus ex	 fallout 3,lots of guns
+0	0.054531143587082866	0.054531143587082866	0.054531143587082866	0.054531143587082866	eve online	star trek
+0	0	0	0	0	dragon age: inquisition,dragon age: inquisition,dragon age: inquisition,dragon age: inquisition,dragon age: inquisition,dragon age: inquisition	 icewind dale,temple of elemental evil
+0	0.18564849055686755	0.2801841622152808	0.13207099969181296	0.13207099969181296,0.13207099969181296,0.13207099969181296,0.13207099969181296,0.13207099969181296,0.2723243818902974,0.2723243818902974,0.2801841622152808	stronghold kingdoms,stronghold kingdoms,stronghold kingdoms,stronghold kingdoms,stronghold kingdoms,stronghold crusader,stronghold crusader,stronghold legends,crusader kings 2,crusader kings 2,stronghold 2	tropico 4
+0	0	0	0	0	gears of war,mass effect	 spec ops: the line,heart of darkness*
+0	0	0	0	0	the solus project,the long dark,subnautica	dont starve
+0	0	0	0	0	tales of symphonia	jade empire, mass effect
+0	0	0	0	0	shadowrun returns,system shock 2,hacknet,hacknet,deus ex	 system shock, hacknet, hacker evolution,deus ex: human revolution
+0	0.25008587430675006	0.25657476699730136	0.24359698161619872	0.25657476699730136,0.24359698161619872	the binding of isaac,roguelike	cave story
+0	0	0	0	0		playstation
+0	0.10284913892039169	0.1385549395225217	0.06714333831826165	0.06714333831826165,0.1385549395225217	planetside 2,warframe	we are, lol
+0	0.25564408422363266	0.25564408422363266	0.25564408422363266	0.25564408422363266	planetside 2	battlefield 3, killzone 3, starhawk
+0	0	0	0	0	metroid prime	dark souls
+0	0.14464952421284621	0.14464952421284621	0.14464952421284621	0.14464952421284621	mass effect,total war,civ	 diablo 2, minecraft,path of exile
+0	0.33665196331046243	0.34176650277130016	0.3315374238496247	0.3315374238496247,0.34176650277130016	the elder scrolls online,guild wars 2	eve online
+0	0	0	0	0	planetside 2	tribes: ascend
+0	0.10509952232838644	0.10509952232838644	0.10509952232838644	0.10509952232838644	deus ex	mark of the ninja
+0	0	0	0	0	half-life,war games,starcraft,total war,bioshock,civ	 fallout 2, kotor, dawn of war, warcraft 2, fallout 3, dungeon keeper,age of wonders 
+0	0.32146172445316423	0.3713375756810615	0.2715858732252669	0.3713375756810615,0.2715858732252669	xenoblade chronicles,valkyria chronicles,tales of symphonia	final fantasy, lost odyssey
+0	0	0	0	0		x3: albion prelude
+0	0.1341886098395413	0.23138209081718872	0.0782036417195704	0.0782036417195704,0.23138209081718872,0.09298009698186482	killing floor,left 4 dead,minecraft,l4d	 garrys mod, goldeneye, half-life 2,team fortress 2
+1	0.9999999999999997	0.9999999999999997	0.9999999999999997	0.9999999999999997	guild wars 2	guild wars 2, neverwinter
+0	0	0	0	0	the stanley parable	shadow of the colossus, shadow of the colossus
+1	0.9999999999999997	0.9999999999999997	0.9999999999999997	0.9999999999999997	guild wars 2	guild wars 2
+0	0	0	0	0		radical dreamers, chrono cross, radiant historia, chrono trigger
+0	0.09732914379999365	0.09732914379999365	0.09732914379999365	0.09732914379999365	deus ex	 the guild 2, out there,city builder
+0	0	0	0	0	final fantasy 11,city of heroes,guild wars 2	 guild wars 2, out there, the secret world, ff11, endgame, star trek, tera,world of warcraft
+0	0.2120633038451234	0.22594724454652637	0.1981793631437204	0.22594724454652637,0.1981793631437204	the sims 4,the sims 3,the sims 2	the walking dead, adventure games, out there, machinarium
+0	0	0	0	0		 pokemon ranger, mario kart, playstation,animal crossing
+0	0	0	0	0	the witcher 2,starbound,starbound,starbound,minecraft	torchlight 2
+0	0	0	0	0	the witcher	assassins creed
+0	0	0	0	0	total war	 warcraft 3,age of mythology
+0	0	0	0	0		 xbox,xbox
+0	0.24996945750433763	0.24996945750433763	0.24996945750433763	0.24996945750433763,0.24996945750433763	neverwinter nights 2,baldur's gate,baldur's gate	 dnd,neverwinter nights, baldurs gate, wc3, bg2, nwn 2, icewind dale 2
+0	0.06106181937236171	0.06106181937236171	0.06106181937236171	0.06106181937236171	guild wars 2	 hello kitty,island adventure
+0	0	0	0	0	the witcher,the witcher	plants vs zombies, kotor, world of goo, medieval 2, total war, thomas was alone, war games
+0	0	0	0	0	neverwinter nights 2,neverwinter nights 2,neverwinter nights 2,alien swarm,magicka	 fear 3,dead rising 2
+0	0	0	0	0	dark messiah of might and magic,dark messiah of might and magic,the witcher	 vvvvvv ,hotline miami , xbox, spelunky 
+0	0	0	0	0	star citizen	kerbal space program
+0	0.1160979049476923	0.1160979049476923	0.1160979049476923	0.1160979049476923	guild wars 2	star wars
+0	0.20134114388959115	0.20134114388959115	0.20134114388959115	0.20134114388959115	the witcher	fallout 3
+0	0	0	0	0	final fantasy xiii,ratchet and clank,street fighter iv,gran turismo 5,racing games,action games,god of war,killzone 2	demons souls
+0	0	0	0	0		the walking dead
+0	0.20406673662558908	0.20406673662558908	0.20406673662558908	0.20406673662558908	planetside 2,wildstar,firefall	path of exile
+0	0	0	0	0	hitman: absolution,splinter cell,splinter cell,splinter cell,mgs,mgs,mgs	mark of the ninja
+0	0	0	0	0	the witcher 2,mass effect,mass effect	shadow of the colossus, xenoblade
+0	0	0	0	0	fallout new vegas,the witcher,fallout 3,fallout 4	gta
+1	1	1	1	0	assassin's creed,mass effect,the witcher,sci-fi	mass effect
+0	0	0	0	0	gears of war	batman arkham asylum, red dead redemption
+0	0	0	0	0		xbox 360
+0	0.10001789540907167	0.10001789540907167	0.10001789540907167	0.10001789540907167	the witcher 2,the witcher 2,mass effect,deus ex	fallout 3
+0	0	0	0	0	tales of the abyss,tales of symphonia,tales of graces f,tales of xillia	gamecube
+0	0.24635643826631207	0.26126355910538784	0.2263426613326661	0.2263426613326661,0.26126355910538784,0.2514630943608824	unreal tournament 2004,unreal tournament 2003,half-life 2,half-life 1,far cry,quake 4,quake 3,doom 2,doom 3	s.t.a.l.k.e.r.
+0	0	0	0	0	dragon's dogma,the witcher 2,the witcher 2,the witcher 2,ni no kuni,ffxii	dragons dogma
+0	0.17291790307160682	0.23158332876904544	0.11983494935353127	0.11983494935353127,0.1663140032293561,0.15151515151515152,0.2071075264667779,0.21219618138884414,0.12187418077854129,0.23158332876904544	assassin's creed,call of duty,mass effect,just cause,saints row,half-life,total war,far cry,crysis	 sci-fi,out there, xbox, hl2, portal 2, deus ex
+0	0	0	0	0	metroid,metroid,metroid	psychonauts
+0	0	0	0	0	star citizen	swg
+0	0.21527227864287685	0.2872289195344074	0.19128673167903334	0.2872289195344074,0.19128673167903334,0.19128673167903334,0.19128673167903334	the wolf among us,the walking dead,the walking dead,the walking dead	 the walking dead,spec ops: the line
+0	0	0	0	0	assassin's creed,tomb raider	demons souls, this game
+0	0	0	0	0	wii sports resort,wii sports resort,wii sports resort,wii sports resort,wii fit	 sports champions, ive,the fight: lights out
+1	0.5796712157583257	1	0.15934243151665137	0.15934243151665137,1	minecraft,starcraft,portal 2,diablo 3	portal 2, bots, tf2
+0	0	0	0	0	fuck you	dayz
+0	0	0	0	0	final fantasy tactics	 match up,shin megami tensei
+0	0.1998324905660444	0.20319089381590105	0.19647408731618773	0.20319089381590105,0.19647408731618773	tales of symphonia,tales of vesperia,gamecube	star ocean
+0	0.16671787845494757	0.26798791513384757	0.05542732767430506	0.26798791513384757,0.1767383925566901,0.05542732767430506	league of legends,minecraft,dota 2	borderlands 2, left 4 dead
+0	0	0	0	0	super hexagon	 dota 2, lol,all games, starcraft
+0	0	0	0	0	splinter cell	far cry 3
+0	0.28537708269563056	0.3503279181004369	0.22042624729082427	0.22042624729082427,0.3503279181004369	tribes: ascend,planetside 2,quake live,tf2	quake iii arena, quake live
+0	0	0	0	0		cybertron
+0	0.2352087574065446	0.23732902751715002	0.22672767696412288	0.22672767696412288,0.23732902751715002,0.23732902751715002,0.23732902751715002,0.23732902751715002	hotline miami,scroller,scroller,scroller,scroller	 dungeon crawl, dungeons of dredmor, dont starve,dungeons of dredmor, roguelike, legend of grimrock
+0	0	0	0	0	call of duty	call of duty 1
+0	0.09759601566044392	0.09759601566044392	0.09759601566044392	0.09759601566044392	guild wars 2	bloodline champions
+0	0	0	0	0	xenoblade chronicles,mass effect 3,mass effect 2	dark souls
+0	0	0	0	0		ffxiv
+0	0	0	0	0	nfl 2k,nba 2k,nhl 2k,mlb	pro evo, fifa
+1	0.3521510221024945	1	0.09298009698186482	0.19507032181702044,0.09298009698186482,0.31826460191820916,1,0.15444008979537813	league of legends,team fortress 2,starbound,minecraft,dota 2	minecraft
+0	0	0	0	0	guild wars 2	star wars galaxies
+0	0	0	0	0		crusader kings
+0	0	0	0	0	mass effect,the witcher	dark souls
+0	0	0	0	0	mass effect,tomb raider,sorry!	indie bundle
+0	0.3186761519048911	0.3186761519048911	0.3186761519048911	0.3186761519048911	baldur's gate	minecraft
+0	0	0	0	0	heroes of might and magic iii,heroes of might and magic iv,heroes of might and magic vi	 simple rpg,puzzle quest 2
+0	0	0	0	0	assassin's creed,the witcher 2,mass effect	mario kart ds, racing games
+0	0	0	0	0		the humble indie bundle
+0	0.1762481122056044	0.1762481122056044	0.1762481122056044	0.1762481122056044	fallout 4,game on	homefront
+0	0.18800822950898266	0.18800822950898266	0.18800822950898266	0.18800822950898266	metal gear solid,the last of us,god of war	nier
+0	0	0	0	0	the witcher	the witcher 2
+0	0.12731471754347012	0.2308254860258047	0.03951300084595938	0.2308254860258047,0.1556569331289216,0.1556569331289216,0.09899984362701297,0.03951300084595938,0.11327368232027162,0.11949575373703138,0.10509610753383802	wolfenstein: the old blood,wolfenstein: the new order,wolfenstein: the new order,natural selection 2,team fortress 2,tribes: ascend,killing floor,garry's mod,warframe	 natural selection 2,hitman: blood money
+0	0.15459394200619203	0.15459394200619203	0.15459394200619203	0.15459394200619203	guild wars 2	dota 2, tf2
+0	0	0	0	0		final fantasy, nes
+0	0	0	0	0	lego pirates of the caribbean,little big planet 2,lego indiana jones,lego harry potter,lego star wars,action games,action games,lego batman	 xbox,minecraft, fable ii
+0	0.18428277311669344	0.21675281461219098	0.15181273162119593	0.21675281461219098,0.15181273162119593	farming simulator,stardew valley	ys origin
+0	0	0	0	0		 gamecube,gamecube
+1	1	1	1	0	sim golf	sim golf
+0	0	0	0	0	warframe,diablo	marvel heroes, diablo, path of exile, sci-fi
+0	0	0	0	0	ffviii,ffviii,ffxi	 ff6, psx, ff7,final fantasy, final fantasy
+1	0.39192826533392333	1.0	0.13112920967910532	1.0,0.13112920967910532,0.2506452579971408,0.18593859365944743	dwarf fortress,roguelike,rimworld,factorio	dwarf fortress
+0	0	0	0	0	ufo: enemy unknown	spacechem
+0	0	0	0	0	stellaris,stellaris,civ	 state of decay, zombie apocalypse, railroad tycoon 3, anno 1404, endless space,galactic civilizations 2
+0	0	0	0	0	mass effect	 dark souls,red dead redemption
+0	0	0	0	0	farming simulator,stardew valley,starbound,minecraft	 openttd, starcraft,transport tycoon
+0	0.07403441983056293	0.07403441983056293	0.07403441983056293	0.07403441983056293	guild wars 2	 team fortress 2,league of legends
+0	0	0	0	0	heroes of might and magic 2	adventure island , final fight
+0	0	0	0	0		 mgs, crash team racing, tomba, crash bandicoot, spyro,jak and daxter collection
+0	0	0	0	0	the witcher 2,mass effect	simcity
+0	0.2232751993289923	0.2232751993289923	0.2232751993289923	0.2232751993289923	alien: isolation	crysis
+0	0.15521888852560134	0.28010499719405973	0.06460295386672439	0.28010499719405973,0.06460295386672439,0.12094871451601992	heroes of the storm,league of legends,dota 2,lol	star wars, 1 on 1
+0	0.1498339467587738	0.1498339467587738	0.1498339467587738	0.1498339467587738	planetside 2	realm of the mad god
+0	0	0	0	0	far cry 3: blood dragon,far cry 3: blood dragon,sniper elite	far cry 2
+0	0	0	0	0	super mario 3d land,ratchet and clank,jak and daxter	animal crossing
+0	0.14306490853971363	0.2100389840350159	0.08699949877701163	0.1321562428071133,0.2100389840350159,0.08699949877701163	starbound,minecraft,portal 2	street fighter, fifa, nba
+0	0	0	0	0		 time machine,back to the future, golden apple, myst, the lost city, broken sword, theresia, puzzle agent
+0	0.013004553671990486	0.013004553671990486	0.013004553671990486	0.013004553671990486	armored core 5,armored core 4,arma 3	guild wars 2
+0	0.06936284969940071	0.07558104451466496	0.06314465488413644	0.06314465488413644,0.07558104451466496	team fortress 2,planetside 2	 killing floor,monster shooter
+0	0	0	0	0		 team fortress 2, planetside 2, tribes: ascend, garrys mod, call of duty: black ops, call of duty: modern warfare 3,counter-strike: global offensive, counter-strike: source, left 4 dead 2
+0	0	0	0	0	call of duty	battlefield bad company 2, battlefield 2, battlefield 3, red orchestra
+0	0.21428571428571427	0.21428571428571427	0.21428571428571427	0.21428571428571427	galaxy on fire 2,crimson gem saga,chaos rings ii,dungeon hunter,space shooter,civ	vs.
+0	0	0	0	0		dragon age: origins
+0	0.17783736625642724	0.17783736625642724	0.17783736625642724	0.17783736625642724	saints row 3,fallout 3,gta iv,civ,civ,mw2	borderlands 2, mw2
+0	0	0	0	0	endless space 2	might and magic, capitalism 2, rise of nations
+0	0	0	0	0	minecraft,portal 2,portal 2	plants vs zombies
+0	0	0	0	0	the long dark	gothic 2, pop up
+0	0.1712273163059558	0.1712273163059558	0.1712273163059558	0.1712273163059558	left 4 dead 2,mass effect	borderlands 2
+0	0	0	0	0	star trek online	x3: albion prelude, x rebirth
+1	1.0	1.0	1.0	1.0	chivalry: medieval warfare	chivalry: medieval warfare
+0	0	0	0	0	rogue legacy,rogue legacy,rogue legacy,rogue legacy,rogue legacy,roguelike,roguelike,roguelike,roguelike,roguelike	 civ,torchlight 2
+0	0	0	0	0	mass effect,the witcher	dragon age: origins
+0	0	0	0	0	cities: skylines,city builder,city builder,city builder,city builder,anno 1404,simcity,tropico	black and white 2
+0	0	0	0	0	chivalry: medieval warfare	 wii u,trine 2
+0	0.15755454976957128	0.18733206701047725	0.09799951528775937	0.09799951528775937,0.18733206701047725,0.18733206701047725	the beginner's guide,the stanley parable,the stanley parable,the last of us,the last of us	 okami hd,okami hd
+0	0	0	0	0	elite: dangerous	gsb
+0	0.18321711231592616	0.18321711231592616	0.18321711231592616	0.18321711231592616	the stanley parable,the last of us,mass effect,bioshock	the walking dead
+0	0.17055750974823844	0.2055617890657555	0.14676830866230847	0.14676830866230847,0.15934243151665137,0.2055617890657555	tomb raider,xbox 360,portal 2,pick up,sorry!	 xbox, minecraft,minecraft
+0	0.11812581489537256	0.11812581489537256	0.11812581489537256	0.11812581489537256	minecraft	15 minutes, level 5
+0	0.21650017913191408	0.21650017913191408	0.21650017913191408	0.21650017913191408	dragon age: inquisition,dragon's dogma,the witcher	this game, hard time
+0	0	0	0	0	the witcher 2	dark souls
+0	0	0	0	0	dynasty warriors 5,dynasty warriors 7,dynasty warriors 3,dynasty warriors 8,dynasty warriors 6	 dw6, samurai warriors, dynasty warriors,romance of the three kingdoms, warriors orochi
+0	0	0	0	0	card game	animal crossing
+0	0	0	0	0		 gta, sim city,zombie apocalypse
+0	0.08197383816886629	0.08197383816886629	0.08197383816886629	0.08197383816886629	roguelike	battle for wesnoth
+0	0	0	0	0	final fantasy explorers,bravely default	fire emblem
+0	0	0	0	0	dragon age: inquisition,the witcher	dark souls
+0	0.1395519277651638	0.15026950419535293	0.09538840212724649	0.09538840212724649,0.13012757125213564,0.15026950419535293,0.15026950419535293,0.15026950419535293,0.15026950419535293,0.15026950419535293	don't starve,starbound,minecraft,minecraft,minecraft,minecraft,minecraft	 minecraft,strategy games, civilization v
+0	0	0	0	0	dwarf fortress,warcraft 3,warcraft 3,warcraft 3,warcraft 3	dragon age: origins
+0	0	0	0	0	mass effect trilogy	 xbox, ultima 7,metroid 
+0	0	0	0	0	silent hill	thief: deadly shadows, thief 2
+0	0.16143437370657013	0.16143437370657013	0.16143437370657013	0.16143437370657013	tomb raider	 mass effect, heavy rain, tomb raider,my boyfriend
+0	0	0	0	0	the witcher 2,mass effect	mass effect trilogy
+0	0	0	0	0	age of empires online,age of empires 2,age of empires 3,age of mythology	dota 2
+0	0	0	0	0	final fantasy xiv,tera	 aoe,break it, you up
+0	0	0	0	0	the elder scrolls online,league of legends,guild wars 2	 dota 2,starcraft
+0	0	0	0	0	galactic civilizations,galactic civilizations,master of orion,master of orion,master of orion,stellaris	 guess it,endless space
+0	0	0	0	0	candy crush saga,puzzle bobble 4,puzzle bobble 3,puzzle bobble 2	zuma
+0	0.21379103895289867	0.21379103895289867	0.21379103895289867	0.21379103895289867	the wolf among us	gemini rue
+0	0	0	0	0	mass effect,bioshock,bioshock,bioshock,bioshock	 natural selection, simcity, unreal tournament 2004, warcraft 2, kings bounty, rainbow six, diablo 2, satellite reign,command and conquer red alert 2, this game, total annihilation
+0	0.12361579384202719	0.12361579384202719	0.12361579384202719	0.12361579384202719	diablo	runescape
+0	0	0	0	0	pillars of eternity,crusader kings 2,baldur's gate	 arma 2, star control,mercenaries: playground of destruction, men of war, gta: san andreas
+0	0	0	0	0	strategy games,strategy games,total war	red alert, cold war
+0	0	0	0	0	tower wars	 ive,warcraft 3, tds
+0	0.13841090949673232	0.21243434743828882	0.0625	0.21243434743828882,0.1402983810519082,0.0625	call of duty: ghosts,battlefield 3,titanfall,halo 4	quake live
+1	0.9999999999999997	0.9999999999999997	0.9999999999999997	0.9999999999999997	guild wars 2	guild wars 2, pick up
+0	0	0	0	0	jak and daxter collection,shadow of the colossus,shadow of the colossus,sly cooper collection,sly cooper collection,ratchet and clank,ratchet and clank,killzone 3,killzone 3,god of war,god of war,ico,ico	okami hd
+0	0	0	0	0	gta v	ad infinitum
+1	1	1	1	0	the need for speed	the need for speed, fun racer, split/second
+0	0.1465377558978565	0.17229725116587583	0.13795125747518341	0.13795125747518341,0.13795125747518341,0.13795125747518341,0.17229725116587583	borderlands 2,borderlands 2,borderlands 2,portal 2	scribblenauts unlimited
+0	0	0	0	0	assassin's creed,the witcher 2,mass effect,bioshock,far cry	lost odyssey
+0	0.16835802324765461	0.16835802324765461	0.16835802324765461	0.16835802324765461	half-life 2,great deal	thomas was alone
+0	0	0	0	0	the witcher 2,the witcher 2	saints row 3
+0	0.22008426726894004	0.23065816315412283	0.20977264776352544	0.20977264776352544,0.23065816315412283,0.21982199088917187	crusader kings ii,cities: skylines,civilization v,city builder	ftl: faster than light
+1	0.9999999999999997	0.9999999999999997	0.9999999999999997	0.9999999999999997	guild wars 2	guild wars 2
+1	1	1	1	0	xbox 360	xbox 360
